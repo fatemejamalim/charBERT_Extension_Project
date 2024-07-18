@@ -1,0 +1,1992 @@
+[
+  {
+    "paragraphs": [
+      {
+        "context": "INTERPRETATION: 12 months of treatment with losartan was well tolerated but was not effective in reducing the rate of brain atrophy in individuals with clinically diagnosed mild-to-moderate Alzheimer's disease.\n",
+        "qas": [
+          {
+            "question": "Can losartan reduce brain atrophy in Alzheimer's disease?",
+            "id": "6402c910201352f04a00000c",
+            "answers": [
+              {
+                "text": "n",
+                "answer_start": 0
+              },
+              {
+                "text": "o",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "CHecklist for critical Appraisal and data extraction for systematic Reviews of prediction Modelling Studies (CHARMS).\nWe will extract data based on the Checklist for\u00a0Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modeling Studies (CHARMS), \nChecklist for Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modeling Studies (CHARMS-PF).\nCritical Appraisal and Data Extraction for Systematic Reviews of Prediction Modeling Studies (CHARMS)\nThe CHARMS (critical appraisal and data extraction for systematic reviews of prediction modelling studies) checklist was created to provide methodological appraisals of predictive models, based on the best available scientific evidence and through systematic reviews.\nHowever, these models should be developed appropriately (CHecklist for critical Appraisal and data extraction for systematic Reviews of prediction Modeling Studies [CHARMS] and Prediction model Risk Of Bias ASsessment Tool [PROBAST] statements).\ntudies with model updating. Data was extracted following the Checklist for critical Appraisal and data extraction for systematic Reviews of prediction Modelling Studies (CHARMS) checklist.PRIMARY AND SECONDARY OUTCOME MEA\nData collection was guided by the checklist for critical appraisal and data extraction for systematic reviews (CHARMS) and applicability and methodological quality assessment by the prediction model risk of bias assessment tool (PROBAST).\nStudies were assessed using the checklist for critical appraisal and data extraction for systematic reviews of prediction modeling studies (CHARMS) checklist.\nmethods in oncology. We used the Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD) statement, Prediction model Risk Of Bias ASsessment Tool (PROBAST) and CHecklist for critical Appraisal and data extraction for systematic Reviews of prediction Modelling Studies (CHARMS) to assess the methodological conduct of i\ninclusion criteria). We followed the CHARMS recommendations (Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modelling Studies), extracting the information from its 11 domains (Source of data\nCritical appraisal and data extraction for systematic reviews of prediction modelling studies: the CHARMS checklist.\nThe CHARMS (Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modelling Studies) checklist was used for data extraction and quality assessment.\nion making. Systematic reviews of prognostic model studies can help identify prognostic models that need to further be validated or are ready to be implemented in healthcare.OBJECTIVES: To provide a step-by-step guidance on how to conduct and read a systematic review of prognostic model studies and to provide an overview of methodology and guidance available for every step of the review progress.SOURCES: Published, peer-reviewed guidance articles.CONTENT: We describe the following steps for conducting a systematic review of prognosis studies: 1) Developing the review question using the Population, Index model, Comparator model, Outcome(s), Timing, Setting format, 2) Searching and selection of articles, 3) Data extraction using the Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modelling Studies (CHARMS) checklist, 4) Quality and risk of bias assessment using the Prediction model Risk Of Bias ASsessment (PROBAST) tool, 5) Analysing data and undertaking quantitative meta-analysis, and 6) Presenting summary of findings, inte\nte, or status of the publication. To carry out the systematic review, the CHARMS (Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modelling Studies) guidel\nThe authors did not put any restrictions on the models included in their study regarding the model setting, prediction horizon or outcomes.Data extraction and synthesis Checklists of critical appraisal and data extraction for systematic reviews of prediction modelling studies (CHARMS) and prediction model risk of bias assessment tool (PROBAST) were used to guide developing of a standardised data extraction form.\nWe critically appraised these models by means of criteria derived from the CHARMS (CHecklist for critical Appraisal and data extraction for systematic Reviews of prediction Modeling Studies) and PROBAST (Prediction model Risk Of Bias ASsessment Tool).\nist for critical Appraisal and data extraction for systematic Reviews of prediction Modeling Studies [CHARMS] and Prediction model Risk Of Bias ASsess\nt for critical Appraisal and data extraction for systematic Reviews of prediction Modelling Studies (CHARMS) checklist.PRIMARY AND SECONDARY OUTCOME M\nthe CHARMS recommendations (Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modelling Studies), extracting the information\nThe CHARMS (critical appraisal and data extraction for systematic reviews of prediction modelling studies) checklist was created to provide methodolog\nist for critical appraisal and data extraction for systematic reviews of prediction modeling studies (CHARMS) checklist. In total 89,959 citations wer\nacted the data. We used the Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modeling Studies (CHARMS) checklist for the ri\nical appraisal and data extraction for systematic reviews of prediction modeling studies (CHARMS) and the prediction model risk of bias assessment too\nnalysed (domains of CHARMS, Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modelling Studies) the following: source of da\nt for critical Appraisal and data extraction for systematic Reviews of prediction Modelling Studies (CHARMS) checklist.PRIMARY AND SECONDARY OUTCOME MEASURES: P\nthe CHARMS recommendations (Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modelling Studies), extracting the information from its 11 domains (Source of data, Participants, etc). We determin\nacted the data. We used the Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modeling Studies (CHARMS) checklist for the risk of \nical appraisal and data extraction for systematic reviews of prediction modeling studies (CHARMS) and the prediction model risk of bias assessment tool (PROBAST) were used for the data extraction process and critical appraisal.RESULTS: From the 29\nnalysed (domains of CHARMS, Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modelling Studies) the following: source of data, participants, outcome to be predicted, candidate predictors, sample size, missing data, model development, model performance, model evaluation, results and interpretation and discussion.RESULTS: We found tw\n",
+        "qas": [
+          {
+            "question": "What is CHARMS with respect to medical review of predictive modeling?",
+            "id": "640f857d201352f04a00002b",
+            "answers": [
+              {
+                "text": [
+                  "CHecklist for critical Appraisal and data extraction for systematic Reviews of prediction Modelling Studies (CHARMS)."
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Our work suggests that an intricate interplay of programs controlling gene expression levels and AS is fundamental to organ development, especially for the brain and heart.\nBioinformatical analysis pointed to the tissue-specific splicing factors Srrm4 and Nova1 as likely upstream regulators of the observed splicing changes in the PLN-R14del cardiomyocytes. \n",
+        "qas": [
+          {
+            "question": "Which splicing factors have been associated with alternative splicing in PLN R14del hearts?",
+            "id": "6410eb95201352f04a00002e",
+            "answers": [
+              {
+                "text": [
+                  "Srrm4"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "Nova1"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": " 64% deletions, 18% duplications and 18% point mutations. \nOf these, 406 (70.5%) were exonic deletions, 64 (11.1%) were exonic duplications, and one was a deletion/duplication complex rearrangement (0.2%). Small mutations were identified in 105 cases (18.2%), most being nonsense/frameshift types (75.2%). Mutations in splice sites, however, were relatively frequent (20%). \ngene deletion rate was 54.3% (391/720), and gene duplication rate was 10.6% (76/720)\nThe rate of deletion mutant occurred in Exon 45-54 was 71.9% (281/391) in all gene deletion patients; meanwhile, the rate of gene duplication occurred in Exon 1-40 was 82.9% (63/76) in all gene duplication ones.\nIn all the patients with gene deletion and duplication, the rate of DMD and IMD was 90.6% (423/467), and BMD, 9.4% (44/467).\nThe Duchenne Muscular dystrophy (DMD) is the most frequent muscle disorder in childhood caused by mutations in the Xlinked dystrophin gene (about 65% deletions, about 7% duplications, about 26% point mutations and about 2% unknown mutations). \nThe Duchenne Muscular dystrophy (DMD) is the most frequent muscle disorder in childhood caused by mutations in the Xlinked dystrophin gene (about 65% deletions, about 7% duplications, about 26% point mutations and about 2% unknown mutations).\nWhile in earlier studies equal mutation rates in males and females had been reported, a breakdown by mutation types can better explain the sex ratio of mutations: Point mutations and duplications arise preferentially during spermatogenesis whereas deletions mostly arise in oogenesis.\nl spectrum. This information is extremely beneficial for basic scientific research, genetic diagnosis, trial planning, clinical care, and gene therapy.METHODS: We collected data from 1400 patients (1042 patients with confirmed unrelated Duchenne muscular dystrophy [DMD] or Becker muscular dystrophy [BMD]) registered in the Chinese Genetic Disease Registry from March 2012 to August 2017 and analyzed the genetic mutational characteristics of these patients.RESULTS: Large deletions were the most frequent type of mutation (72.2%), followed by nonsense mutations (11.9%), exon duplications (8.8%), small deletions (3.0%), splice-site mutations (2.1%), small insertions (1.3%), missense mutations (0.6%), and a combination mutation of a dele\nDeletions were the most common mutation type (256, 79%), followed by point mutations (45, 13.9%) and duplications (23, 7.1%).\n",
+        "qas": [
+          {
+            "question": "What are the most common mutation types in Duchenne muscular Dystrophy?",
+            "id": "64162fb0690f196b5100001a",
+            "answers": [
+              {
+                "text": [
+                  "deletions",
+                  "exonic deldetions",
+                  "gene deletions",
+                  "deletion mutant"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "duplications",
+                  "exonic duplications",
+                  "gene duplications"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "point mutations"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "deletion/duplication complex rearrangement"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "nonsense/frameshift mutations"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "mutations in splice sites"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Trial of Anti-BDCA2 Antibody Litifilimab for Cutaneous Lupus Erythematosus.\nWhether treatment with litifilimab, a humanized monoclonal antibody against BDCA2, would be efficacious in reducing disease activity in patients with cutaneous lupus erythematosus has not been extensively studied.\nTrial of Anti-BDCA2 Antibody Litifilimab for Systemic Lupus Erythematosus.\n The safety and efficacy of subcutaneous litifilimab, a humanized monoclonal antibody that binds to BDCA2, in patients with SLE have not been extensively studied.\n",
+        "qas": [
+          {
+            "question": "What is the target of Litifilimab?",
+            "id": "63eef3ebf36125a42600000a",
+            "answers": [
+              {
+                "text": [
+                  "BDCA2"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": ". The area under the receiver operator characteristics curve (AUROC)\narea under receiver operator curve [AUROC] \nThe model performance was evaluated using the area under the receiver operating characteristic curve (AUROC)\nOur models predict GDM with high accuracy even at pregnancy initiation (area under the receiver operating curve (auROC)\u2009=\u20090.85), substantially outperforming a baseline risk score (auROC\u2009=\u20090.68).\n prediction of pancreatic cancer. Two popular models were evaluated: logistic regression and a recurrent neural network.RESULTS: For logistic regression, using UMLS delivered the optimal area under the receiver operating characteristics (AUROC) results in both dengue hemorrhagic fever (81\nArea under the receiver operating characteristics (AUROC) curve is often used to evaluate risk models.\nstic tests. Rather, researchers use the area under the receiver operating characteristic (AUROC) as the key metric to gauge and report predictive performa\nArea under a receiver-operating-characteristic (AUROC) curve is widely used in medicine to summarize the ability of a continuous predictive marker to predict a binary outcome.\nThe c statistic, or area under the receiver operating characteristic (ROC) curve, achieved popularity in diagnostic testing, in which the test characteristics of sensitivity and specificity are relevant to discriminating diseased versus nondiseased patients.\n-day mortality, respectively. When using only baseline variables to predict mortality, all algorithms except SVM (area under the receiver operator characteristic curve [AUROC], 0.83 [95% confidence interval {CI}, 0.69-0.97]) had AUROC >0.9: GBM (AUROC, 0.96 [0.94-1.0]), RF (AUROC, 0.96 [0.92-1.0]), CNN (AUROC, 0.96 [0.92-0.99]), and logistic regress\nWe assessed model performance using two metrics, the area under the receiver operating characteristic curve (AUROC) and the area under the precision-recall curve (AUPRC), to illustrate the differences in information they convey in the setting of class imbalance.\nThe two approaches were explored and validated within the context of mRNA expression level prediction and have the area under the ROC curve (auROC) values ranging from 0.75 to 0.94.\n.4%) and validation (47.4%) cohorts. The FibroGENE-DT yielded the area under the receiver operating characteristic curve (AUROCs) of 0.87, 0.85 and 0.804 for the prediction of fast fibrosis progression, cirrhosis and significant fibrosis risk, respectively, with compara\nement (oral or IV) was 41.1%. Independent predictors using history alone were female sex, decreasing age, surgical history, and non-Caucasian ethnicity (model area under the receiver operating characteristic curve [AUROC], 0.59 [95% confiden\n reduction of at least I\u00b0 MR. One-year mortality was 28.2%.In Kaplan-Meier analysis, one- year mortality was significantly higher in RVD-pts (34.8% vs 2.8%, p\u00a0=\u00a00.009).Area under the Receiver Operating Characteristic (AUROC) for SHFM and MAGGIC were comparable for both scores\nUsing a standard multivariate approach to combine predictors, the PPIN model achieved an AUROC (area under the receiver operating characteristic curve) of 0.81 with a sensitivity of 48% given a specificity of 90%.\ncognitive impairment was evaluated using area under the receiver operating characteristic curve (AUROC), and multivariate logistic regression was appl\nssion, using UMLS delivered the optimal area under the receiver operating characteristics (AUROC) results in both dengue hemorrhagic fever (81.15%) an\ns). Sensitivity, specificity, predictive values and area under receiving operating curves (AUROC) of RBUS for VCUG abnormalities were determined.RESUL\nys). Model performance was assessed using area under the receiver operator characteristic curve (AUROC). Pre-N8-GP prophylaxis models learned from dat\nagnostic threshold were evaluated using area under the receiver operating characteristic curve (AUROC). Stratification analysis by age and MP-IgM tite\n learning algorithms was assessed by the area under the receiver operating characteristic curve (AUROC). The conventional scoring models had various p\nsing PubMed, MEDLINE, and Scopus databases. Papers with area under the receiver operating curve (AUROC) scores reported were included in the analysis.\nnstruct the prediction model. Finally, the area under the receiver operating characteristic (AUROC) curve was used to compare the model performance.RE\ncy for tasks such as predicting: in-hospital mortality (area under the receiver operator curve [AUROC] across sites 0.93-0.94), 30-day unplanned readm\nrognostic tests. Rather, researchers use the area under the receiver operating characteristic (AUROC) as the key metric to gauge and report predictive\nssion, using UMLS delivered the optimal area under the receiver operating characteristics (AUROC) results in both dengue hemorrhagic fever (81.15%) and pancreatic cancer (80.53%) tasks. For recurrent neural netw\ns). Sensitivity, specificity, predictive values and area under receiving operating curves (AUROC) of RBUS for VCUG abnormalities were determi\nsing PubMed, MEDLINE, and Scopus databases. Papers with area under the receiver operating curve (AUROC) sc\nnstruct the prediction model. Finally, the area under the receiver operating characteristic (AUROC) curve was used to \nrognostic tests. Rather, researchers use the area under the receiver operating characteristic (AUROC) as the key metric to gauge and report predictive per\ncognitive impairment was evaluated using area under the receiver operating characteristic curve (AUROC), and multivariate logistic regression was applied to evaluate predictive accuracy of biomarkers on cognitive impairment; 178 subjects (41 PD, 31 VaD and 106 normal controls) were included. In multiple linear regression analysis of PD patients\nof outcome (AC), sensitivity (SN), specificity (SP), and area under receiver-operating curve (AUROC) were compared between 3 models: KCC (INR, creatinine, coma grade, pH), CART analysis using only KCC variables (KCC-CART) and a CART model using new variables (NEW-CART).RESULTS: Traditional KC\nmodels of the EGFR mutation status (Model 1: area under the receiver operating characteristic curve [AUROC]\u2009=\u20090.910, 95% CI 0.861-0.945; Model 2: AUROC\u2009=\u20090.859, 95% CI 0.803-0.904; Model 3: AUROC\u2009=\u20090.711, 95% CI 0.643-0.773). A testing set (n\u2009=\u200950) and temporal validation data set (n\u2009=\u200970\ncy for tasks such as predicting: in-hospital mortality (area under the receiver operator curve [AUROC] across sites 0.93-0.94), 30-day unplanned readmission (AUROC 0.75-0.76), prolonged length of stay (AUROC 0.85-0.86), and all of a patient's final discharge diagnoses (frequency-weighted AUROC 0.90). These models outperformed traditional, c\n matrix, accuracy, precision, recall, F1 score, and Area under the\u00a0Receiver Operating Characteristics (AUROC) were used to evaluate the performance of predictive models.RESULTS: Ability of prediction was between 68.6% \n accuracy, precision, recall, F1 score, and Area under the\u00a0Receiver Operating Characteristics (AUROC) were used to evaluate the performance of predictive models.RESULTS: Ability of prediction was between 68.6% and 61.5\ns), positive predictive values (PPVs), and area under the receiver operating characteristic curve (AUROC), of machine learning models when predicting \nance of prediction, accuracy of discrimination (area under the receiver operating characteristic curve [AUROC]), calibration, and validity of the two predictive models were investigated. The co\nThe area under the receiver operating characteristic (ROC) curve (AUC) is commonly used for assessing the discriminative ability of prediction models even though the measure is criticized for being clinically irrelevant and lacking an intuitive interpretation. Every tutorial explains how the coordinates of the ROC curve are obtained from the risk distributions of diseased and non-diseased individuals, but it has not become common sense that therewith the ROC plot is just another way of presenting these risk distributions. We show how the ROC curve is an alternative way to present risk distributions of diseased and non-diseased individuals and how the shape of the ROC curve informs about the overlap of the risk distributions.\n",
+        "qas": [
+          {
+            "question": "What is AUROC in context of predictive modeling?",
+            "id": "64136fbf201352f04a00003d",
+            "answers": [
+              {
+                "text": [
+                  "area under the receiver operator characteristics curve"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "PRP-40 regulation of neuronal microexons is therefore a widely conserved phenomenon.\n",
+        "qas": [
+          {
+            "question": "Is PRP-40 regulation of microexons a conserved phenomenon?",
+            "id": "63fa13da201352f04a000001",
+            "answers": [
+              {
+                "text": "y",
+                "answer_start": 0
+              },
+              {
+                "text": "e",
+                "answer_start": 0
+              },
+              {
+                "text": "s",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Casimersen received its first approval on 25\u00a0February 2021, in the USA, for the treatment of DMD in patients who have a confirmed mutation of the DMD gene that is amenable to exon\u00a045 skipping. \nhe approval, granted under the US FDA Accelerated Approval Program, was based on an observed increase in dystrophin production in skeletal muscle in patients treated with casimersen\n",
+        "qas": [
+          {
+            "question": "Is casimersen effective for the treatment of Duchenne muscular dystrophy?",
+            "id": "64178e15690f196b51000020",
+            "answers": [
+              {
+                "text": "y",
+                "answer_start": 0
+              },
+              {
+                "text": "e",
+                "answer_start": 0
+              },
+              {
+                "text": "s",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Designing a Dual GLP-1R/GIPR Agonist from Tirzepatide: Comparing Residues Between Tirzepatide, GLP-1, and GIP.\nhe efficacy and safety of tirzepatide, a novel glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist, in people with obesity are not known.\nTirzepatide - a dual GIP/GLP-1 receptor agonist - a new antidiabetic drug with potential metabolic activity in the treatment of type 2 diabetes.\nThe incretin hormones glucagon-like peptide 1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) are responsible for up to 65% of postprandial insulin secretion. Tirzepatide, developed by Eli Lilly, is a dual GIP/GLP-1 receptor agonist in the form of a synthetic linear peptide; its acylation technology allows it to bind to albumin, thus making it possible to dose the drug once a week. \n",
+        "qas": [
+          {
+            "question": "Which are the targets of Tirzepatide?",
+            "id": "63f02ceaf36125a426000015",
+            "answers": [
+              {
+                "text": "Tirzepatide is a dual incretin hormones glucagon-like peptide 1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP)  receptor agonist in the form of a synthetic linear peptide.",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "hydrotherapy,\" \"balneotherapy,\" \"spa therapy,\" \"spa treatment,\" \"creno-balneotherapy,\" \"water treatments,\" and \"aqua therapy,\" o\nSpa therapy is an integral part of the treatment of burn scars. The objective of this systematic review is to provide an overview of the spa therapy used in the treatment of burn scars and analyze its effects reported in clinical studies. We used the PRISMA checklist and queried 8 scientific databases from August 2019 to July 2020 for articles referenced with the specific key words: (burn) AND ((spa) OR (crenotherap*) OR (sulfur bath) OR (balneo*) OR (hydrotherap*) OR (mineral water) OR (thermal water) OR (spring water) OR (health resort medicine))\nSoon after qualification, Fortescue Fox (1858-1940) began practice in a Scottish spa where he acquired a lifelong interest in chronic disorders, especially arthritis. He worked to improve the status of spa medicine, recasting it as medical hydrology\nHe worked to improve the status of spa medicine, recasting it as medical hydrology.\n He worked to improve the status of spa medicine, recasting it as medical hydrology.\n",
+        "qas": [
+          {
+            "question": "Is medical hydrology the same as Spa therapy?",
+            "id": "640e2616201352f04a00002a",
+            "answers": [
+              {
+                "text": "n",
+                "answer_start": 0
+              },
+              {
+                "text": "o",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "CYP1A2 polymorphisms modify the association of habitual coffee consumption with appetite, macronutrient intake, and body mass index: results from an observational cohort and a cross-over randomized study.\nHigh coffee consumption was more prevalent in rapid compared to slow metabolizers (P\u2009=\u20090.008 after adjustment for age, sex, and BMI) and was associated with lower appetite perception and lower BMI only in rapid metabolizers (P for interaction of rs762551 genotype*coffee consumption\u2009=\u20090.002 and 0.048, respectively). This differential association of rs762551 genotype and coffee consumption with BMI was more evident in individuals at higher genetic risk of obesity (mean adjusted difference in BMI\u2009=\u2009-5.82\u2009kg/m2 for rapid versus slow/intermediate metabolizers who consumed more than 14 cups of coffee per week).\nCYP1A2 rs762551 polymorphism modifies the association of habitual coffee consumption with BMI, in part by influencing appetite, energy intake and circulating levels of the orexigenic hormone asprosin. This association is more evident in subjects with high genetic predisposition to obesity. \n",
+        "qas": [
+          {
+            "question": "How does CYP1A2 relate to coffee consumption and apetite?",
+            "id": "6410fa66201352f04a000034",
+            "answers": [
+              {
+                "text": "CYP1A2 rs762551 polymorphism modifies the association of habitual coffee consumption with BMI, in part by influencing appetite, energy intake and circulating levels of the orexigenic hormone asprosin. In specific, high coffee consumption was more prevalent in rapid compared to slow metabolizers (P\u2009=\u20090.008 after adjustment for age, sex, and BMI) and was associated with lower appetite perception and lower BMI only in rapid metabolizers (P for interaction of rs762551 genotype*coffee consumption\u2009=\u20090.002 and 0.048, respectively)",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Eteplirsen-treated patients experienced a statistically significant longer median time to LOA by 2.09 years (5.09 vs. 3.00 years, p\u200a<\u200a0.01) and significantly attenuated rates of pulmonary decline vs. natural history patients (FVC%p change: -3.3 vs. -6.0 percentage points annually, p\u200a<\u200a0.0001).\nAt Years 3 and 4, eteplirsen-treated patients demonstrated markedly greater mean 6MWT than controls (difference in change from baseline of 132 m [95%CI (29, 235), p\u200a=\u200a0.015] at Year 3 and 159\u200am [95%CI (66, 253), p\u200a=\u200a0.002] at Year 4)\nAt Year 4, a significantly greater proportion of eteplirsen-treated patients were still ambulant versus controls (10/12 vs 3/11; p\u200a=\u200a0.020)\n In this retrospective matched control study, eteplirsen treatment resulted in attenuation of ambulatory decline over a 4-year observation period, supporting long-term benefit in patients with DMD.\n",
+        "qas": [
+          {
+            "question": "Is eteplirsen effective for the treatment of Duchenne muscular dystrophy?",
+            "id": "64178e73690f196b51000023",
+            "answers": [
+              {
+                "text": "y",
+                "answer_start": 0
+              },
+              {
+                "text": "e",
+                "answer_start": 0
+              },
+              {
+                "text": "s",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "CONCLUSIONS: All three ARAT agents are efficacious options for the treatment of nmCRPC, whereas darolutamide appears to have the most favorable tolerability profile. \nBACKGROUND: For nonmetastatic castration-resistant prostate cancer (nmCRPC), 3 drugs under patent protection-apalutamide, enzalutamide, and darolutamide-were approved based on randomized, placebo-controlled trials; 1 drug with generic availability, abiraterone acetate, showed efficacy in a single-arm trial and is commonly prescribed.\nCONCLUSIONS: For nmCRPC, darolutamide offered optimal efficacy and safety among approved drugs, and abiraterone acetate may offer comparable metastasis-free survival benefit with cost savings from generic availability. \nDarolutamide and survival in metastatic, hormone-sensitive prostate cancer: a patient and caregiver perspective and plain language summary of the ARASENS trial.\nDarolutamide is an approved treatment for a different type of prostate cancer called non-metastatic, castration-resistant prostate cancer (also called nmCRPC).\n",
+        "qas": [
+          {
+            "question": "What is the use of darolutamide?",
+            "id": "63f03939f36125a42600001b",
+            "answers": [
+              {
+                "text": "Darolutamide is an approved treatment of non-metastatic, castration-resistant prostate cancer (also called nmCRPC).",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": " Selective SFN (without large fiber affection) manifests with pain, sensory disturbances, or autonomic dysfunction. T\nNeuropathic pain (NP) is a main feature of Fabry disease (FD) as consequence of small fiber neuropathy. Restless legs syndrome (RLS) in FD was not described, but it is an important feature in other small fiber neuropathies\nmall fiber neuropathy (SFN) can be associated with autoantibodies, including those of IgM class with specificity for the trisulfated heparan disaccharide (TS-HDS) antigen.\nUp to 50% of small fiber neuropathy (SFN) cases are idiopathic, but novel antibodies to Trisulfated Heparin Disaccharide (TS-HDS) and fibroblast growth factor receptor 3 (FGFR-3) have been implicated in half of these cases\nan the patients without SFN. Restless leg syndrome was also more frequently observed in patients with SFN, who had pain aggravated at rest that improved by moving.CONCLUSIONS: These findings are in favor of the sensitization of relatively spared large A\u03b2-fibers and second-order\nSmall fiber neuropathies (SFN) comprise a clinical syndrome typically associated with acral burning pain, where the pathophysiological processes affect the thinly myelinated A-delta and the unmyelinated C nerve fibers.\nSmall fibre neuropathy (SFN), a condition dominated by neuropathic pain, is frequently encountered in clinical practise either as prevalent manifestation of more diffuse neuropathy or distinct nosologic entity.\nNeuropathic pain is a characteristic feature of small fiber neuropathy (SFN), which in 18% of the cases is caused by genetic variants in voltage-gated sodium ion channels.\nSFN was defined by the presence of suggestive sensory painful symptoms with normal nerve conduction studies and abnormal neurophysiologic tests for small nerve fibers or a low intraepidermal nerve fiber density at skin biopsy.\nSFN is clinically dominated by neuropathic pain and autonomic complaints, leading to a significant reduction in quality of life.\nSmall-fiber neuropathy (SFN) is a disorder of thinly myelinated A\u03b4 and unmyelinated C fibers. SFN is clinically dominated by neuropathic pain and autonomic complaints, leading to a significant reduction in quality of life.\nINTRODUCTION: Small fiber neuropathy (SFN) is a heterogeneous group of disorders affecting thin myelinated A\u03b4 and unmyelinated C fibers. Common symptoms include neuropathic pain and autonomic disturbances, and the typical clinical presentation is that of a length-dependent polyneuropathy, although other distributions could be present.\nSmall fiber neuropathy (SFN) is a peripheral nervous system disease due to affection of A-delta or C-fibers in a proximal, distal, or diffuse distribution. Selective SFN (without large fiber affection) manifests with pain, sensory disturbances, or autonomic dysfunction. Though uniform diagnostic criteria are unavailable, most of them request typical clinical features and reduced intra-epidermal nerve fiber density on proximal or distal skin biopsy.\nSmall fibre neuropathies are a heterogeneous group of disorders affecting thinly myelinated A\u03b4-fibres and unmyelinated C-fibres. Although multiple causes of small nerve fibre degeneration have been reported, including via genetic mutations, the cause of small fibre neuropathy remains unknown in up to 50% of cases. The typical clinical presentation of small fibre neuropathy is that of a symmetrical, length-dependent polyneuropathy associated with sensory or autonomic symptoms.\n",
+        "qas": [
+          {
+            "question": "What are the main clinical features of small-fiber neuropathy (SFN)?",
+            "id": "64136664201352f04a00003b",
+            "answers": [
+              {
+                "text": [
+                  "pain"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "sensory disturbance"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "autonomic dysfunction"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "restless leg syndrome"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "autoantibodies"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "On October 24, 2016, the U.S. Food and Drug Administration (FDA) approved pembrolizumab (Keytruda; Merck & Co., Inc., https://www.merck.com) for treatment of patients with metastatic non-small cell lung cancer (mNSCLC) whose tumors express programmed death-ligand 1 (PD-L1) as determined by an FDA-approved test, as follows: (a) first-line treatment of patients with mNSCLC whose tumors have high PD-L1 expression (tumor proportion score [TPS] \u226550%), with no epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) genomic tumor aberrations, and (b) treatment of patients with mNSCLC whose tumors express PD-L1 (TPS \u22651%), with disease progression on or after platinum-containing chemotherapy. \n",
+        "qas": [
+          {
+            "question": "When was Keytruda approved by the FDA for the treatment of metastatic non-small cell lung cancer?",
+            "id": "6415c53e690f196b51000012",
+            "answers": [
+              {
+                "text": [
+                  "October 24, 2016"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": " In relation to clinical trials, in the last ten years, has experienced great advances in the field of therapeutic options, divided into two major therapeutic targets: 1) the area of gene therapies and 2) trying to reverse or block the pathophysiological processes of the disease, such as inflammation, fibrosis, muscle regeneration, etc. \nSeveral promising gene therapies are currently under investigation. These include gene replacement, exon skipping, suppression of stop codons.\nMore recently, a promising gene editing tool referred to as CRISPR/Cas9 offers exciting perspectives for restoring dystrophin expression in patients with DMD.\nAdeno-associated virus-vectorized gene therapies to restore dystrophin protein expression using gene replacement or antisense oligonucleotide-mediated pre-mRNA splicing modulation have emerged, making great strides in uncovering barriers to gene therapies for DMD and other genetic diseases\nWe recently showed that antisense oligoribonucleotide-mediated skipping of exon 46 efficiently induced dystrophin synthesis in cultured muscle cells from Duchenne muscular dystrophy patients carrying an exon 45 deletion.\nThe success of induced exon skipping has spawned a number of \"fusion therapies\", including vector-mediated dystrophin exon skipping and ex vivo viral delivery of splice-switching antisense molecules into myogenic stem cells, followed by implantation, which may address long term oligomer delivery issues.\nSeveral clinical trials have recently demonstrated that oligonucleotide-based drugs induced targeted exon skipping in dystrophin pre-mRNA in Duchenne muscular dystrophy patients, resulting in novel expression of a truncated but functional isoform of the dystrophin protein.\nThese strategies include gene replacement with adeno-associated virus, exon skipping with antisense oligonucleotides, and mutation suppression with compounds that \"read through\" stop codon mutations.\nThere are several promising genetic approaches, including viral delivery of the missing dystrophin gene, read-through of translation stop codons, exon skipping to restore the reading frame and increased expression of the compensatory utrophin gene.\nSo far, there is no effective treatment but new gene-based therapies are currently being developed with particular noted advances in using conventional gene replacement strategies, RNA-based approaches, or cell-based gene therapy with a main focus on Duchenne muscular dystrophy (DMD).\nMyodys, a full-length dystrophin plasmid vector for Duchenne and Becker muscular dystrophy gene therapy.\nThe first viral-mediated gene transfer for any muscle disease was carried out at Columbus Children's Research Institute and Ohio State University for limb girdle muscular dystrophy type 2D, and the first viral-mediated trial of gene transfer for Duchenne muscular dystrophy is under way at the same institutions.\nAdeno-associated virus-vectorized gene therapies to restore dystrophin protein expression using gene replacement or antisense oligonucleotide-mediated pre-mRNA splicing modulation have emerged, making great strides in uncovering barriers to gene therapies for DMD and other genetic diseases.\nOf all novel molecular interventions currently being investigated for Duchenne muscular dystrophy, perhaps the most promising method aiming to restore dystrophin expression to diseased cells is known as 'exon skipping' or splice-modulation, whereby antisense oligonucleotides eliminate the deleterious effects of DMD mutations by modulating dystrophin pre-messenger RNA splicing, such that functional dystrophin protein is produced.\nTargeted exon skipping as a potential gene correction therapy for Duchenne muscular dystrophy.\nSeveral new approaches to gene therapy for the muscular dystrophies involve oligonucleotides as targeting vectors.\ngene therapy, an approach that demonstrates promise for treating Duchenne muscular dystrophy. Gene therapy is not limited to replacement of defective genes but also includes strategies using surrogate genes with alternative but effective means of improving cellular function or repairing gene mutations\nrophy gene which abort dystrophin synthesis. We have explored a gene correction therapy aimed at restoration of the reading frame in Duchenne muscular\non gene replacement and gene/expression repair, including exon-skipping, vector-mediated gene therapy and cell therapy. Therapeutic strategies for different forms of muscular dystrophy are discussed, with an emphasis on \n",
+        "qas": [
+          {
+            "question": "Which gene therapies are under investigation for Duchenne muscular dystrophy?",
+            "id": "6417949d690f196b51000035",
+            "answers": [
+              {
+                "text": [
+                  "gene replacement"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "exon skipping"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "suppression of stop codons"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "CRISPR/Cas9"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "Adeno-associated virus-vectorized gene therapies to restore dystrophin protein expression"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Germline Mutations in CIDEB and Protection against Liver Disease.\nWe also found that variants in CIDEB, which encodes a structural protein found in hepatic lipid droplets, had a protective effect. \nCONCLUSIONS: Rare germline mutations in CIDEB conferred substantial protection from liver disease.\n",
+        "qas": [
+          {
+            "question": "Does CIDEB mutation protect from liver disease?",
+            "id": "63f02a82f36125a426000013",
+            "answers": [
+              {
+                "text": "y",
+                "answer_start": 0
+              },
+              {
+                "text": "e",
+                "answer_start": 0
+              },
+              {
+                "text": "s",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Cdk9 is a member of the Cdc2-like family of kinases. Its cyclin partners are members of the family of cyclin T (T1, T2a and T2b) and cyclin K. The Cdk9/cyclin T complexes appear to be involved in regulating several physiological processes\nWe previously cloned a cdc2-related kinase, cdk9/PITALRE, that is able to phosphorylate the retinoblastoma protein i\nhese results suggest that, among other roles, cdk9/PITALRE plays a role not unlike cdk5 in the differentiation of certain cell types.\n CDK9/Cyclin T1 kinase is a protein kinase, indirectly involved in the cell cycle progression in the form of transcription elongation\nAmong various clinically validated kinases, the cyclin-dependent kinases (CDK) are one of the extensively studied drug targets for clinical developmen\nCyclin-dependent kinases (CDKs) are a broad family of proteins involved in the cell cycle and transcriptional regulation. In this article, we explore the antitumoral activity of a novel proteolysis-targeting chimera (PROTAC) compound against CDK9\nCdk9/cyclin T1 belongs to the P-TEFb complex, and is responsible for the phosphorylation of the carboxyl-terminal domain (CTD) of the RNA Polymerase II, thus promoting general elongation.\nCdk9 function depends on its kinase activity and also on its regulatory units: the T-family cyclins and cyclin K. Recently, several studies confirmed the role of cdk9 in different cellular processes such as signal transduction, basal transcription, HIV-Tat- and MyoD-mediated transcription and differentiation.\nThis data suggests the involvement of Cdk9 in several physiological processes in the cell, the deregulation of which may be related to the genesis of transforming events, that may in turn lead to the onset of cancer.\nCDK9 is a prominent member of the transcriptional CDKs subfamily, a group of kinases whose function is to control the primary steps of mRNA synthesis and processing by eukaryotic RNA polymerase II.\nCyclin-dependent kinase 9 (CDK9), with its cyclin T regulatory subunit, is a component of the positive transcription elongation factor b (P-TEFb) complex, which stimulates transcription elongation and also functions in co-transcriptional histone modification, mRNA processing, and mRNA export.\nCyclin Dependent Kinase 9 (CDK9) is one of the most important transcription regulatory members of the CDK family. In conjunction with its main cyclin partner-Cyclin T1, it forms the Positive Transcription Elongation Factor b (P-TEFb) whose primary function in eukaryotic cells is to mediate the positive transcription elongation of nascent mRNA strands, by phosphorylating the S2 residues of the YSPTSPS tandem repeats at the C-terminus domain (CTD) of RNA Polymerase II (RNAP II).\nCDK9 is a prominent member of the transcriptional CDKs subfamily, a group of kinases whose function is to control the primary steps of mRNA synthesis and processing by eukaryotic RNA polymerase II. As a cyclin-dependent kinase, CDK9 activation in vivo depends upon its association with T-type cyclins to assemble the positive transcription elongation factor (P-TEFb).\nCyclin-dependent kinase 9 (CDK9), the kinase component of positive transcription elongation factor b (P-TEFb), is essential for transcription of most protein-coding genes by RNA polymerase II (RNAPII).\n",
+        "qas": [
+          {
+            "question": "Can you summarize the function of CDK9?",
+            "id": "64089b21201352f04a000021",
+            "answers": [
+              {
+                "text": "Cyclin-dependent kinase 9 (CDK9) is critical for RNA Polymerase II (Pol II) transcription initiation, elongation, and termination in several key biological processes including development, differentiation, and cell fate responses.",
+                "answer_start": 0
+              },
+              {
+                "text": "CDK9 (cyclin-dependent kinase 9) is a protein kinase that plays a role in the regulation of gene expression. It is involved in the phosphorylation of the C-terminal domain of RNA polymerase II, which is necessary for transcriptional elongation and the expression of genes. CDK9 also plays a role in the regulation of other transcription factors, such as NF-\u03baB, and is involved in the regulation of cell cycle progression.",
+                "answer_start": 0
+              },
+              {
+                "text": "CDK9 (cyclin-dependent kinase 9) is a serine/threonine-specific protein kinase that is involved in the regulation of transcription. It is a component of the positive transcription elongation factor b (P-TEFb) complex, which is essential for the phosphorylation of the C-terminal domain of RNA polymerase II and the subsequent transcriptional elongation.",
+                "answer_start": 0
+              },
+              {
+                "text": "CDK9 is a member of the Cdc2-like family of kinases and is involved in regulating several physiological processes. It is able to phosphorylate the retinoblastoma protein and plays a role in the differentiation of certain cell types, as well as being involved in the cell cycle progression in the form of transcription elongation. CDK9 is also a clinically validated drug target for antitumoral activity.",
+                "answer_start": 0
+              },
+              {
+                "text": "CDK9 is a member of the Cdc2-like family of kinases that forms a complex with cyclin T and cyclin K partners. This complex plays a crucial role in regulating transcription elongation and is involved in various physiological processes and cell differentiation",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Thus, our data suggest that RBM24 is a critical regulator of CaMKII\u03b4 to control the cardiac QT interval, highlighting the key role of splicing regulation in cardiac rhythm.\nRBM24 controls cardiac QT interval through CaMKII\u03b4 splicing.\n",
+        "qas": [
+          {
+            "question": "How does RBM24 control QT interval?",
+            "id": "6410eead201352f04a000030",
+            "answers": [
+              {
+                "text": "RBM24 controls cardiac QT interval through CaMKII\u03b4 splicing.",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "The results showed a significant difference in the NSAA score between the deletion and nonsense groups at the age of 3 years (P\u2009=\u20090.04).\nThe boys were evaluated with standardized assessments at the screening and baseline visits at 32 sites in 5 countries (US, UK, Canada, Italy, Germany). Assessments included timed rise from floor, timed 10\u202fm walk/run, six-minute walk distance, North Star Ambulatory Assessment (NSAA) and forced vital capacity (FVC). Mean age at baseline was 5.9 years (range 4.1-8.1 years). Test-retest reliability was high for functional assessments, regardless of time lag between assessments (up to 90 days) and for the majority of age groups. Correlations were strong among the functional measures and timed tests, less so with FVC.\nThe North Star Ambulatory Assessment (NSAA) is a validated 17-item functional rating scale and widely used to assess motor function in boys with Duchenne muscular dystrophy (DMD).\nhese exploratory analyses reveal additional approaches to interpreting the NSAA data beyond just change in NSAA total score. These observations also highlight the importance of reporting items as \"not obtainable\" for a patient with a temporary/transient physical disability that impacts their ability to perform the NSAA test.\nmeasurement. All analyses were performed using the Rasch Unidimensional Measurement Model.RESULTS: Overall, Rasch analysis supported the NSAA as being a reliable (high Person Separation Index of 0.91) and valid (good targeting, little misfit, no reversed thresholds) measure of ambul\nWe hypothesised that boys with DMD could be clustered into groups sharing similar trajectories of ambulatory function over time, as measured by the North Star Ambulatory Assessment (NSAA) total score.\nINTRODUCTION: The North Star Ambulatory Assessment (NSAA) tool is a key instrument for measuring clinical outcomes in patients with Duchenne muscular dy\nThe North Star Ambulatory Assessment is a functional scale specifically designed for ambulant boys affected by Duchenne muscular dystrophy (DMD).\n North Star Ambulatory Assessment in Brazilian Portuguese is a reliable and valid instrument to measure functional capacity in boys with Duchenne muscular dystrophy.\nFunctional variability among boys with Duchenne muscular dystrophy (DMD) is well recognised and complicates interpretation of clinical studies. We hypothesised that boys with DMD could be clustered into groups sharing similar trajectories of ambulatory function over time, as measured by the North Star Ambulatory Assessment (NSAA) total score.\n",
+        "qas": [
+          {
+            "question": "Is North Star Ambulatory Assessment score a reliable clinical outcome for disease progression assessment in Duchenne Muscular Dystrophy?",
+            "id": "64105502201352f04a00002d",
+            "answers": [
+              {
+                "text": "y",
+                "answer_start": 0
+              },
+              {
+                "text": "e",
+                "answer_start": 0
+              },
+              {
+                "text": "s",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "This study aimed to define the clinically relevant supratherapeutic dose of rilzabrutinib, an oral Bruton tyrosine kinase (BTK) inhibitor, and evaluate potential effects of therapeutic and supratherapeutic exposures on cardiac repolarization in healthy subjects.\nDiscovery of Reversible Covalent Bruton's Tyrosine Kinase Inhibitors PRN473 and PRN1008 (Rilzabrutinib).\nHerein, we describe the design of covalent reversible BTK inhibitors and the discoveries of PRN473 (11) and rilzabrutinib (PRN1008, 12). \nOngoing trials include new B-cell/plasma-cell targeting agents such as the Bruton tyrosine kinase inhibitors ibrutinib and rilzabrutinib, and the anti-CD38 MoAbs daratumumab and its analogue isatuximab. \n",
+        "qas": [
+          {
+            "question": "What is the mechanism of action of rilzabrutinib?",
+            "id": "63f032caf36125a42600001a",
+            "answers": [
+              {
+                "text": "Rilzabrutinib is oral Bruton tyrosine kinase (BTK) inhibitor.",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": " Adult-type diffuse gliomas are genetically defined and include astrocytoma, isocitrate dehydrogenase (IDH)-mutant, oligodendroglioma, IDH-mutant and 1p/19q codeleted, and glioblastoma, IDH-wildtype\n According to the 2021 World Health Organization classification, the three risk types included (1) low-risk, expecting oligodendroglioma, isocitrate dehydrogenase (IDH)-mutant, and 1p/19q-codeleted; (2) intermediate-risk, expecting astrocytoma, IDH-mutant; and (3) high-risk, expecting glioblastoma, IDH-wildtype.\nAdult-type diffuse gliomas are genetically defined and include astrocytoma, isocitrate dehydrogenase (IDH)-mutant, oligodendroglioma, IDH-mutant and 1p/19q codeleted, and glioblastoma, IDH-wildtype.\nA review of adult-type diffuse gliomas in the WHO CNS5 classification with special reference to Astrocytoma, IDH-mutant and Oligodendroglioma, IDH-mutant and 1p/19q codeleted.\nthogenesis and prognosis. Furthermore, the previous broad category of adult-type diffuse gliomas has been consolidated into 3 types: astrocytoma, isocitrate dehydrogenase (IDH) mutant; oligodendroglioma, IDH mutant and 1p/19q codeleted; and gl\nThis review briefly discusses two tumor types: astrocytoma, IDH-mutant, and oligodendroglioma, IDH-mutant and 1p/19q codeleted, with emphasis on relevant changes in their classification and defining molecular genetic alterations.\nSince brainstem biopsies are rarely performed, these tumours are commonly classified according to their MR imaging characteristics into 4 subgroups: (a) diffuse intrinsic low-grade gliomas, (b) enhancing malignant gliomas, (c) focal tectal gliomas and (d) exophytic gliomas/other subtypes.\nC\u2009>\u20090.5, k\u2009>\u20090.6, p\u2009<\u20090.001). IBGS type-I, type-II, and type-III gliomas had good specificity in identifying IDHmut 1p19q-codel oligodendroglioma (training - 97%, validation - 85%); IDHmut 1p19q non-codel astrocytoma (training - 80%, validation - 85.9%); and IDHwt glioblastoma (training - 76.5%, validation- 87.3%) respectively (p-value\u2009<\u20090.01).CONCLUSIONS: Imaging-based stratification of adult diffuse gliomas predicted patient survival and correlate\nIn the new WHO classification 2021, adult-type diffuse astrocytic gliomas subdivide into isocitrate dehydrogenase (IDH)-mutant astrocytoma, IDH-mutant and 1p/19q-codeleted oligodendroglioma, and IDH-wildtype glioblastoma.\nRecent genetic studies have revealed that the major categories of gliomas, such as circumscribe astrocytomas, infiltrating astrocytomas/oligodendrogliomas, and glioblastoma, roughly correspond to major genetic alterations, including isocitrate dehydrogenases (IDHs) 1/2 mutations, TP53 mutations, co-deletion of chromosome arms 1p/19q, and BRAF mutation/fusion.\nThis improves diagnostic accuracy and prognostication: oligo-astrocytoma no longer exists as a clinical entity; isocitrate dehydrogenase (IDH) mutant and 1p/19q co-deleted oligodendroglioma is a smaller category with better prognosis; IDH wild-type 'low-grade' glioma has a much poorer prognosis; and glioblastoma is divided into IDH mutant (with an better prognosis than pre-2016 glioblastoma) and IDH wild type (with a poorer prognosis).\nA four-tiered WHO grading scheme has been successfully applied to a spectrum of diffusely infiltrative astrocytomas, but it is not fully applicable to other gliomas, including oligodendrogliomas and ependymomas.\nThis has resulted in a major revision of the WHO classification, which is now for adult diffuse glioma centered around isocitrate dehydrogenase (IDH) and 1p/19q diagnostics.\nThe major representatives in this subgroup are the diffuse astrocytic, oligodendroglial, and mixed oligo-astrocytic tumors.\n The major representatives in this subgroup are the diffuse astrocytic, oligodendroglial, and mixed oligo-astrocytic tumors.\nssion, and 1p/19q co-deletion detection in adult diffuse gliomas (Grade II, III, and IV) and to correlate them with clinicopathological and histopatho\nvide into isocitrate dehydrogenase (IDH)-mutant astrocytoma, IDH-mutant and 1p/19q-codeleted oligodendroglioma, and IDH-wildtype glioblastoma. The T2-\ninclude astrocytoma, isocitrate dehydrogenase (IDH)-mutant, oligodendroglioma, IDH-mutant and 1p/19q codeleted, and glioblastoma, IDH-wildtype. This r\nhese changes has been the division of adult astrocytomas into IDH-wildtype and IDH-mutant categories in addition to histologic grade as part of the ma\nO classification, five main molecular subgroups of adult diffuse gliomas can be distinguished based on the 1p/19q codeletion, isocitrate dehydrogenase (IDH), and histone H3.3 mutation status. In the future, this cla\nAdult gliomas are most often infiltrative. The World Health Organization (WHO) has classed them into three major groups according to the presomptive cell of origin: astrocytoma, oligodendroglioma and mixed oligoastrocytoma. Depending on the presence or absence of a small number of signs of anaplasia (mitosis, nuclear atypia, cell density, microvascular proliferation and necrosis) the WHO distinguishes grade II (LGG), III (anaplastic), and IV (glioblastomas, GBM).\n",
+        "qas": [
+          {
+            "question": "What are the  types/categories of adult diffuse gliomas.",
+            "id": "641368ee201352f04a00003c",
+            "answers": [
+              {
+                "text": [
+                  "astrocytoma"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "oligodendroglioma"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "glioblastoma"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "isocitrate dehydrogenase (IDH)-mutant,"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "1p/19q codeleted"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "IDH-wildtype"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "glioblastoma, IDH wildtype"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "ependyoma"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Engineered T cells have achieved success in the treatment of blood cancers, with four chimeric antigen receptor (CAR)-T cell therapies now approved for the treatment of B cell malignancies based on their unprecedented efficacy in clinical trials. \n",
+        "qas": [
+          {
+            "question": "Have chimeric antigen receptor (CAR)-T cell therapies been approved for the treatment of B cell malignancies?",
+            "id": "6415ca99690f196b51000019",
+            "answers": [
+              {
+                "text": "y",
+                "answer_start": 0
+              },
+              {
+                "text": "e",
+                "answer_start": 0
+              },
+              {
+                "text": "s",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Golodirsen is a provisionally approved PMO-based drug for approx. 8% of all DMD patients amenable to exon 53 skipping. \nThis article summarizes the milestones in the development of golodirsen leading to this first approval for DMD.\nn December 2019, intravenous golodirsen received its first global approval in the USA for the treatment of DMD in patients with a confirmed mutation of the DMD gene that is amenable to exon 53 skipping, based on positive results from a phase I/II clinical trial\nTo date, four PMOs, including eteplirsen, casimersen, viltolarsen, and golodirsen, have been conditionally approved by the FDA for the treatment of DMD.\nGolodirsen increased dystrophin protein (16.0-fold; P\u2009<\u20090.001) and exon skipping (28.9-fold; P\u2009<\u20090.001).\nThis study provides evidence for golodirsen biologic activity and long-term safety in a declining DMD population and suggests functional benefit versus external controls. \n",
+        "qas": [
+          {
+            "question": "Is golodirsen effective for the treatment of Duchenne muscular dystrophy?",
+            "id": "64178e4b690f196b51000022",
+            "answers": [
+              {
+                "text": "y",
+                "answer_start": 0
+              },
+              {
+                "text": "e",
+                "answer_start": 0
+              },
+              {
+                "text": "s",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Thus far, it has been approved for the treatment of rheumatoid arthritis (RA); however, an increasing number of studies have suggested that baricitinib can be used to treat dermatological diseases, such as atopic dermatitis (AD), psoriasis, vitiligo, and alopecia areata. \nWe reviewed the application, efficacy, side effects, precautions, limitations and prospect of baricitinib in atopic dermatitis, psoriasis, vitiligo and alopecia areata (AA) in recent 5 years including clinical trials and case reports. \nTwo Phase 3 Trials of Baricitinib for Alopecia Areata.\nCONCLUSIONS: In two phase 3 trials involving patients with severe alopecia areata, oral baricitinib was superior to placebo with respect to hair regrowth at 36 weeks. \n",
+        "qas": [
+          {
+            "question": "Is Baricitinib effective for Alopecia Areata?",
+            "id": "63f043e4f36125a426000023",
+            "answers": [
+              {
+                "text": "y",
+                "answer_start": 0
+              },
+              {
+                "text": "e",
+                "answer_start": 0
+              },
+              {
+                "text": "s",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "This study was to explore the clinical efficacy and safety of darbepoetin alfa injection replacing epoetin alfa injection (recombinant human erythropoietin injection, rHuEPO) for the treatment of anemia associated with chronic kidney failure\nAnaemia is a common manifestation ofa chronic kidney failure. \nThe hormone deficiency that underlies anemia in chronic kidney failure can now be corrected\nWe call this interrelationship between congestive heart failure, chronic kidney insufficiency, and anemia the Cardio-Renal Anemia syndrome.\nAnemia is a major problem in patients with chronic kidney insufficiency.\nCorrection of the anemia with erythropoietin and intravenous iron led to a marked improvement in patients' functional status and their cardiac function, and to a marked fall in the need for hospitalization and for high-dose diuretics; renal function usually improved or at least stabilized.\nThe anemia is very often associated with chronic kidney disease (CKD).\nThe role of anemia in congestive heart failure and chronic kidney insufficiency: the cardio renal anemia syndrome.\nWhile iron deficiency is often stated as a cause of anemia in chronic renal failure prior to end-stage renal disease, its relative contribution is debated.\nAnemia in chronic renal failure is predominantly caused by diminished erythropoietin synthesis by diseased kidneys.\nWe infer that impaired utilization of iron may be a significant factor in the anemia of chronic renal failure.\nBACKGROUND: Kidney failure causes anemia and is associated with a very high risk of coronary heart di\nBACKGROUND: Kidney failure is known to cause anemia, which is associated with a higher risk of cardiac failure an\nThe correction of anemia in patients with the combination of chronic kidney disease and congestive heart failure may prevent progression of both conditions.\nBACKGROUND: Anemia, a common complication of chronic kidney disease, usually develops as a consequence of erythropoietin\nIn patients with CKD, anemia is often caused by decreased erythropoietin production relative to hemoglobin levels.\nClearly more work is needed to clarify the relationship between anemia, CKD and CHF.\nUse of EPOGEN for treatment of anemia associated with chronic renal failure.\n Heart failure, anemia and chronic renal failure are mutually related.\nUremic Toxins Affect Erythropoiesis during the Course of Chronic Kidney Disease: A Review.\n Partial, but not complete, correction of anemia is associated with improved outcomes in patients with CKD.\n The high prevalence of anemia in chronic kidney disease is explained by a combination of erythropoietin and iron deficiency.\n Many advanced chronic kidney disease patients have both anemia and chronic heart failure.\n In conclusion, anemia is associated with a rapid decrease in kidney function in patients with heart failure, particularly in those with underlying CKD.\n This analysis was conducted to evaluate whether anemia is a risk factor for kidney function decrease in patients with heart failure.\nAnemia as a risk factor for kidney function decline in individuals with heart failure.\nEnd stage renal disease (ESRD) invariably leads to anemia which has been mainly attributed to compromised release of erythropoietin from the defective kidneys with subsequent impairment of erythropoiesis.\nChronic kidney disease (CKD) is a widespread health problem in the world and anaemia of renal origin is a common problem.\nAnemia is the most common hematologic complication in end-stage renal disease (ESRD). It is ascribed to decreased erythropoietin production, shortened red blood cell (RBC) lifespan, and inflammation.\nAnemia is one of the most characteristic and visable manifestations of chronic renal failure. Investigators in the past decade have provided a better understanding of this anemia. The etiology of the anemia of chronic renal failure has three facets: first is reduced erythropoietin production by damaged kidneys; second is the presence of inhibitors to red blood cell (RBC) production in uremic serum; and third is red blood cell hemolysis.\nCardiovascular disease remains the major cause of mortality in patients with end stage renal disease (ESRD). The pathophysiology of cardiac dysfunction in ESRD is complex and not fully understood. However, it appears that the two major determinants of left ventricular (LV) hypertrophy and dysfunction are anemia and hypertension, both of which are very common in ESRD patients.\nNGAL, also known as lipocalin 2, is a stress protein located on the cell surface that is known for its involvement in iron transport. This study is aimed to evaluate the correlation between the iron profile and NGAL concentration in serum among chronic kidney disease patients under dialysis in order to find its diagnostic value with regards to iron deficiency anaemia (IDA).\n",
+        "qas": [
+          {
+            "question": "Anemia is not associated with chronic kidney failure",
+            "id": "64137616201352f04a000041",
+            "answers": [
+              {
+                "text": "n",
+                "answer_start": 0
+              },
+              {
+                "text": "o",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "We estimated reduced time and costs by online counseling with about 8% and 10-12%, respectively. \n",
+        "qas": [
+          {
+            "question": "What is the estimated reduction in time when using online genetic counseling?",
+            "id": "6415bc8d690f196b5100000f",
+            "answers": [
+              {
+                "text": [
+                  "8%"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Both daily prednisone and daily deflazacort were more effective than intermittent prednisone for the primary outcome (P\u2009<\u2009.001 for daily prednisone vs intermittent prednisone using a global test; P\u2009=\u2009.017 for daily deflazacort vs intermittent prednisone using a global test)\nAmong patients with Duchenne muscular dystrophy, treatment with daily prednisone or daily deflazacort, compared with intermittent prednisone alternating 10 days on and 10 days off, resulted in significant improvement over 3 years in a composite outcome comprising measures of motor function, pulmonary function, and satisfaction with treatment\nDeflazacort and prednisone/prednisolone are the current standard of care for patients with Duchenne muscular dystrophy (DMD) based on evidence that they improve muscle strength, improve timed motor function, delay loss of ambulation, improve pulmonary function, reduce the need for scoliosis surgery, delay onset of cardiomyopathy, and increase survival.\nEvidence from randomized clinical trials, prospective studies, meta-analyses, and post-hoc analyses suggests that patients receiving deflazacort experience similar or slower rates of functional decline compared with those receiving prednisone/prednisolone. \nThough Deflazacort and prednisone improve clinical endpoints in Duchenne muscular dystrophy (DMD) patients, Deflazacort produces fewer side effects.\n trial. Both daily prednisone and daily deflazacort were more effective than intermittent prednisone for the primary outcome (P\u2009<\u2009.001 for daily predn\n",
+        "qas": [
+          {
+            "question": "Is deflazacort more efficient than prednisone/prednisolone for the treatment of Duchenne muscular dystrophy?",
+            "id": "64163660690f196b5100001d",
+            "answers": [
+              {
+                "text": "n",
+                "answer_start": 0
+              },
+              {
+                "text": "o",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "They combine two different monospecific antigen-binding regions that target CD20 on B cells and engage T cells via CD3 in a 1:1 or 2:1 CD20:CD3 antigen binding fragment (Fab) format. The results of different phase 1 trials with BsAbs, including mosunetuzumab, glofitamab, epcoritamab and odeonextamab, have been recently published.\nMosunetuzumab (Lunsumio\u00ae), an anti-CD20/CD3 T-cell engaging bispecific antibody, is being developed by Roche for the treatment of relapsed or refractory follicular lymphoma. \nBACKGROUND: Mosunetuzumab is a CD20\u2009\u00d7\u2009CD3 T-cell-engaging bispecific monoclonal antibody that redirects T cells to eliminate malignant B cells. I\nHowever, several CD20 \u00d7 CD3 BsAbs including odronextamab, mosunetuzumab, glofitamab, and epcoritamab emerged recently. \n",
+        "qas": [
+          {
+            "question": "What are the targets of Mosunetuzumab?",
+            "id": "6402bc2d201352f04a000005",
+            "answers": [
+              {
+                "text": [
+                  "CD20"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "CD3"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Mast cells are important effector cells in allergic inflammatory reactions. The aggregation of the high-affinity IgE receptor (FcepsilonRI) on the surface of mast cells initiates a complex cascade of signaling events that ultimately leads to the release of various mediators involved in allergic inflammation and anaphylactic reactions\nDuring the IgE-mediated anaphylactic reaction mast cells release proteases such as tryptase, histamine and vasoactive mediators\nHistamine and other deleterious inflammatory mediators promote vascular permeability and smooth muscle contraction; they are readily released from sensitized mast cells and basophils challenged with antigen. Anaphylaxis may be triggered by a variety of antigens including insect and reptile venom, a variety of drugs, vaccines, and food\nEarlier mast cells were only known for their important role in the type 1 allergic reactions (i.e. anaphylaxis or some contact hypersensitivity reactions) \nAnaphylaxis results from severe systemic mast cell activation.\nIn IgE-dependent and other examples of anaphylaxis, tissue mast cells and circulating basophilic granulocytes (basophils) are thought to represent major (if not the major) sources of the biologically active mediators that contribute to the pathology and, in unfortunate individuals, fatal outcome, of anaphylaxis.\nMast cell activation syndromes presenting as anaphylaxis.\nPURPOSE OF REVIEW: Mast cell activation syndrome (MCAS) and anaphylaxis are the result of a spontaneous or triggered pathological degranulation of mast cells (MCs) and might have as substrate normal or pathological MCs (increased burden, aberrant MCs or both).RECENT FINDINGS: This review summarizes the most recent evidence on immunoglobulin E (IgE)-mediated and non IgE-mediated mechanisms underlying MC activation and degranulation and highlights the importance of standa\nElevated mast cell mediators such as tryptase and histamine have been reported during episodes, and mast cells are considered the primary cells responsible for driving anaphylaxis in humans.\nIn this chapter, we will describe the mechanisms of mast cell (and basophil) activation in anaphylaxis, with a focus on IgE-dependent activation, which is thought to be responsible for most examples of antigen-induced anaphylaxis in humans.\nAnaphylaxis is a life-threatening syndrome resulting from the sudden release of mast cell- and basophil-derived mediators into the circulation.\nSome usual clinical manifestations in anaphylaxis, such as angioedema or hypotension, or other less common, such as metrorrhagia, may be explained by the direct effect of the activation of the coagulation and contact system driven by mast cell mediators.\nIdiopathic anaphylaxis involves mast cell activation (acutely elevated urine histamine or serum tryptase) and activated lymphocytes.\nWhen there is activation of mast cells and basophils in anaphylaxis, chemical mediators are detectable.\nSystemic anaphylaxis arises when mast cells, possibly along with other cell types, are provoked to secrete mediators that evoke a systemic response.\nAnaphylaxis results from the massive activation of the mast cells (MCs).\nHuman mast cells, by elaborating vasoactive mediators and cytokines, are the primary effector cells of anaphylaxis.\n Although the mast cell is considered the major effector cell during acute allergic reactions, more recent studies indicate a potentially important and specific role for basophils and their migration which occurs rapidly upon allergen challenge in humans undergoing anaphylaxis.\nAcute anaphylaxis to small molecule drugs is largely considered to be antibody-mediated with immunogloblin E (IgE) and mast cell activation being key.\nAnaphylactic Degranulation of Mast Cells: Focus on Compound Exocytosis.\nIdiopathic Anaphylaxis: A Form of Mast Cell Activation Syndrome.\n A precondition for the unfolding of the anaphylactic shock is the secretion of inflammatory mediators from mast cells in response to an allergen, mostly through activation of the cells via the IgE-dependent pathway.\n Beyond IgE-mediated activation of mast cells/basophils, further mechanisms are involved in the occurrence of anaphylaxis.\n When there is activation of mast cells and basophils in anaphylaxis, chemical mediators are detectable.\nExtensive activation of mast cells is the major switch that triggers systemic anaphylaxis, resulting in the subsequent release of anaphylactic mediators into circulation.\ned in the amplification of the mast cell response during anaphylaxis are unclear. Mouse models of anaphylaxis demonstrate the critical involvement of \nphylaxis in 22-49%. In addition, monoclonal mast cell activation syndrome has been described presenting with anaphylaxis, especially in patients with \nol subjects. The severity of anaphylaxis was associated with mast cell degranulation, increased plasma heparin levels, the intensity of contact system\n types. Finally, we discuss the possible reasons for the mast cell to utilize compound exocytosis during anaphylaxis, the conflicting evidence in diff\nw clinical entities, such as the \u03b1-gal anaphylaxis. Anaphylaxis results from the massive activation of the mast cells (MCs). Thus, it is also necessar\nted that mast cell activation and anaphylaxis are negatively regulated by AMP-activated protein kinase (AMPK). However, little is known about the rela\ns not affected. Calcium-independent early activation events in mast cell anaphylaxis indicated on inhibitory influence of PK-treatment. Inhibition of \nphylaxis in 22-49%. In addition, monoclonal mast cell activation syndrome has been described presenting with anaphylaxis, especially in patients with hymenopter\nol subjects. The severity of anaphylaxis was associated with mast cell degranulation, increased plasma heparin levels, the intensity of contact system activation, and bradykin\n types. Finally, we discuss the possible reasons for the mast cell to utilize compound exocytosis during anaphylaxis, the conflicting evidence in different mast cell models, and the open questions in the field which remain to be a\narepsilonRI) on mast cells. However, the regulatory mechanism of mast cell activation i\ns not affected. Calcium-independent early activation events in mast cell anaphylaxis indicated on inhibitory influence \nr, Ang-1's function in mast cell activation and anaphylaxis diseases is unknown. The results of our study suggest that Ang-1 decreased lipopolysacchar\n\u03b5RI-mediated mast cell activation and anaphylaxis that were insensitive to U0126 or activator 5-aminoimidazole-4-carboxamide-1-\u03b2-4-ribofuranoside, suggesting that the suppression of Fc\u03b5RI signals by the inhibition of the ERK1/2 pathway relies largely on AMPK activation. ERK1/2 controlled AMPK activity by regulating its subcellul\nAnaphylaxis results from severe systemic mast cell activation. In addition to IgE-mediated and physical triggers, it may occur with a clonal mast cell\nFor half a century, it has been known that the mast cell is the cell responsible for the majority of anaphylactic events. Its mediators, taken as a whole, are capable of producing all of the clinical manifestations of these events.\nAnaphylaxis results from severe systemic mast cell activation. In addition to IgE-mediated and physical triggers, it may occur with a clonal mast cell disease and in an idiopathic fashion without clear provoking factors.\nAnaphylaxis is a rapidly developing, life-threatening, generalized or systemic allergic reaction that is classically elicited by antigen crosslinking of antigen-specific IgE bound to the high-affinity IgE receptor Fc\u03b5RI on mast cells and basophils.\nAnaphylaxis is a rapidly evolving, acute, life-threatening reaction that occurs rapidly on contact with a trigger. Anaphylaxis is classically defined as an allergen-driven process that induces specific IgE and the activation of mast cells and basophils through the cross-linking of IgE receptors.\n",
+        "qas": [
+          {
+            "question": "Is anaphylaxis a results of mast cell activation?",
+            "id": "64144200201352f04a000043",
+            "answers": [
+              {
+                "text": "y",
+                "answer_start": 0
+              },
+              {
+                "text": "e",
+                "answer_start": 0
+              },
+              {
+                "text": "s",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Approval was based on two randomized, open-label, active-controlled trials demonstrating statistically significant improvements in progression-free survival (PFS) and overall survival (OS) for patients randomized to pembrolizumab compared with chemotherapy. In KEYNOTE-024, patients with previously untreated mNSCLC who received pembrolizumab (200 mg intravenously [IV] every 3 weeks) had a statistically significant improvement in OS (hazard ratio [HR] 0.60; 95% confidence interval [CI]: 0.41-0.89; p\u2009=\u2009.005), and significant improvement in PFS (HR 0.50; 95% CI: 0.37-0.68; p\u2009<\u2009.001). In KEYNOTE-010, patients with disease progression on or after platinum-containing chemotherapy received pembrolizumab IV 2 mg/kg, 10 mg/kg, or docetaxel 75 mg/m2 every 3 weeks. \n",
+        "qas": [
+          {
+            "question": "On which two clinical trials was the approval of Keytruda based?",
+            "id": "6415c6b6690f196b51000015",
+            "answers": [
+              {
+                "text": [
+                  "KEYNOTE-024"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "KEYNOTE-010"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Viltolarsen is a phosphorodiamidate morpholino antisense oligonucleotide (PMO) designed to skip exon 53 of the DMD gene\u00a0for the treatment of Duchenne muscular dystrophy (DMD)\nViltolarsen restores the reading frame of the DMD gene by skipping \u00a0exon 53\u00a0and produces a truncated but functional form of dystrophin. \nAfter showing hopeful results in pre-clinical trials and several clinical trials across North America and Japan, it received US Food and Drug Administration (FDA) approval for DMD\u00a0in 2020.\nViltolarsen restores the reading frame of the DMD gene by skipping \u00a0exon 53\u00a0and produces a truncated but functional form of dystrophin.\nucleotide viltolarsen targets exon 53 of the dystrophin gene, and could be an effective treatment for patients with Duchenne muscular dystrophy (DMD).\nesulting in an absence of functional dystrophin protein. Viltolarsen, an exon 53 skipping therapy, has been shown to increase endogenous dystrophin levels. Herein, long-term (>2 years) functional outcomes in viltolarsen treated pati\n",
+        "qas": [
+          {
+            "question": "Is viltolarsen effective for the treatment of Duchenne muscular dystrophy?",
+            "id": "64178e34690f196b51000021",
+            "answers": [
+              {
+                "text": "y",
+                "answer_start": 0
+              },
+              {
+                "text": "e",
+                "answer_start": 0
+              },
+              {
+                "text": "s",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "BACKGROUND: The superior mesenteric artery (SMA) syndrome, also known as Wilkie's syndrome, is one of the rarest causes of small bowel obstruction.\nBACKGROUND Nutcracker syndrome and Wilkie's syndrome are rare vascular diseases due to the abnormal course of the superior mesenteric artery originating from the abdominal aorta with reduced angle (<22\u00b0) and consequent compression of the left renal vein (nutcracker) and duodenum (Wilkie). \nINTRODUCTION: Wilkie's Syndrome, also known as Superior Mesenteric Artery Syndrome (SMAS), is a rare cause of bowel obstruction that can contribute to vague abdominal symptoms on clinical presentation.\nSuperior mesenteric artery syndrome, or Wilkie's syndrome, is an unexpected cause of upper gastrointestinal tract obstruction. \nIntroduction Superior mesenteric artery (SMA) or Wilkie's syndrome is a rare condition arising due to compression of the third part of the duodenum between the abdominal aorta and the superior mesenteric artery.\u00a0\nSuperior mesenteric artery syndrome (SMA syndrome) or Wilkie's syndrome is a rare etiology of duodenal obstruction due to compression of the third portion of the duodenum between the superior mesenteric artery and the aorta. \n",
+        "qas": [
+          {
+            "question": "What is Wilkie's syndrome?",
+            "id": "640410d1201352f04a000012",
+            "answers": [
+              {
+                "text": "Wilkie's syndrome or Superior mesenteric artery (SMA) syndrome is a rare condition arising due to compression of the third part of the duodenum between the abdominal aorta and the superior mesenteric artery.",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "PROteolysis TArgeting Chimeras (PROTACs) technology is a new protein-degradation strategy that has emerged in recent years.\nProteolysis-targeting chimeras (PROTACs) are heterobifunctional molecules consisting of one ligand that binds to a protein of interest (POI) and another that can recruit an E3 ubiquitin ligase. The chemically-induced proximity between the POI and E3 ligase results in ubiquitination and subsequent degradation of the POI by the ubiquitin-proteasome system (UPS).\nProteolysis targeting chimeras (PROTACs) are molecules that induce protein degradation via formation of ternary complexes between an E3 ubiquitin ligase and a target protein. \nConversion of a FLT-3 inhibitor (quizartinib) into a proteolysis targeting chimera (PROTAC) results in a compound that induces degradation of FLT-3 ITD mutant at low nanomolar concentrations.\nProteolysis-targeting chimeras (PROTAC) are bifunctional molecules that hijack endogenous E3 ubiquitin ligases to induce ubiquitination and subsequent degradation of protein of interest.\nProteolysis-targeting chimera (PROTAC) has been developed to be a useful technology for targeted protein degradation.\nPROteolysis-TArgeting Chimera (PROTAC) is an innovative strategy that takes advantage by the cell's own Ubiquitin-Proteasome System (UPS).\nHere we describe the design of a novel PROTAC (proteolysis targeting chimeric molecule) capable of simultaneously inducing the degradation of the X-protein, and antagonizing its function.\nWe have developed a heterobifunctional all-small molecule PROTAC (PROteolysis TArgeting Chimera) capable of inducing proteasomal degradation of the androgen receptor.\nProteolysis-targeting chimeras (PROTACs) are small molecules that specifically link E3 ubiquitin ligases to proteins of interest to mediate targeted ubiquitination and degradation.\nWe have previously reported a library of proteolysis targeting chimeras (PROTACs) incorporating a benzamide-based HDAC ligand (from CI-994), with an alkyl linker and ligand for the von Hippel-Lindau (VHL) E3 ubiquitin ligase that degrade HDAC1-3 at submicromolar concentrations.\nWe developed a first-in-class proteolysis targeting chimera (PROTAC) for selective degradation of histone deacetylase 8 (HDAC8).\nProteolysis-targeting chimera (PROTAC) for targeted protein degradation and cancer therapy.\nProteolysis-targeting chimeras (PROTACs) are engineered techniques for targeted protein degradation.\nPROTACs are the heterobifunctional nano molecules with size range of about 10 nanometres find application to eliminate the protein complexes formed by protein-protein interaction through large and flat surface generally defined as \"undruggable\" in conventional drug delivery system, which include around 85 % of proteins present in humans, suggesting their wide application in the field of drug development.\nINTRODUCTION: PROTACs represent a novel class of heterobifunctional molecules that simultaneously bind to a target protein and to an E3 ligase complex, resulting in the transfer of ubiquitin and initiating a process ultimately causing the proteasomal degradation of the t\nA technology was developed known as Protac (Proteolysis Targeting Chimeric Molecule) that acts as a bridge, bringing together the SCF ubiquitin ligase with a protein target, resulting in its ubiquitination and degradation.\nuary 2013 through June 2020. Only English-language patent applications with exemplified PROTACs reported to degrade a target protein(s) were deemed in scope, and the definition of 'PROTAC' was restricted to a bifunctional molecule which contains a discrete binding element for a specific degradation target(s), as well as a separate discrete E3 ligase-binding moiety.EXPERT OPINION: Delivering on the enormous potential of PROTACs will require the development of PROTAC medicines that are differentiate\nProteolysis targeting chimeras (PROTACs) are hetero-bifunctional molecules that could simultaneously bind to the target protein and the E3 ubiquitin ligase, thereby leading to selective degradation of the target protein.\nPROTACs (proteolysis targeting chimeras) emerge as a powerful class of therapeutic modalities, which rely on induced protein-protein interactions between the proteins of interest (POIs) and E3 ubiquitin ligases to aid the degradation of POIs by the ubiquitin-proteasome system (UPS).\nWe assembled proteolysis targeting chimeras (PROTACs) from a cereblon (CRBN) and a von-Hippel-Lindau (VHL) ligase ligand and demonstrated a PROTAC-induced heterodimerization of the two E3 ligases leading to unidirectional and efficient degradation of CRBN.\nProteolysis Targeting Chimeras (PROTACs) are a new promising class of small molecules that can effectively direct specific proteins to proteasomal degradation.\n PROTAC proteolysis-targeting chimaera (PROTAC) technology may be the solution, considering its ability to selectively degrade target proteins.\nProteolysis targeting chimera (PROTAC), hijacking protein of interest (POI) and recruiting E3 ligase for target degradation via the ubiquitin-proteaso\nProteolysis targeting chimeras (PROTACs), which harness the ubiquitin-proteasome system to selectively induce targeted protein degradation, represent \nProteolysis-targeting chimeras (PROTACs), which selectively degrade targeted proteins by the ubiquitin-proteasome system, have emerged as a novel ther\nProteolysis-targeting chimera (PROTAC) has been developed to be a useful technology for targeted protein degradation. A bifunctional PROTAC molecule c\nPROTAC (proteolysis-targeting chimeras), which selectively degrades target proteins, has become the most popular technology for drug development in re\nProteolysis targeting chimeras (PROTACs), which harness the ubiquitin-proteasome system to selectively induce targeted protein degradation, represent an emerging therapeutic technology with the potential to modulate traditional undruggable targets.\nProteolysis-targeting chimeras (PROTACs) represent a new direction in small-molecule therapeutics whereby a heterobifunctional linker to a protein of interest (POI) induces its ubiquitination-based proteolysis by recruiting an E3 ligase.\nProteolysis-targeting chimeras (PROTACs), which selectively degrade targeted proteins by the ubiquitin-proteasome system, have emerged as a novel therapeutic technology with potential advantages over traditional inhibition strategies.\nPROTAC (proteolysis-targeting chimeras), which selectively degrades target proteins, has become the most popular technology for drug development in recent years.\nProteolysis targeting chimera (PROTAC), hijacking protein of interest (POI) and recruiting E3 ligase for target degradation via the ubiquitin-proteasome pathway, is a novel drug discovery paradigm which has been widely used as biological tools and medicinal molecules with the potential of clinical application value.\nProteolysis-targeting chimeras (PROTACs) degrade target proteins by engaging the ubiquitin-proteasome system. Assays detecting target-PROTAC-E3 ligase\nHere we report the development of a proteolysis targeting chimera (PROTAC) based on the combination of the unique features of the sirtuin rearranging ligands (SirReals) as highly potent and isotype-selective Sirt2 inhibitors with thalidomide, a bona fide cereblon ligand.\nA parallel, one-pot assembly approach to proteolysis targeting chimeras (PROTACs) is demonstrated utilizing activated esters generated in situ, and traceless Staudinger ligation chemistry.\nDevelopment of proteolysis targeting chimeras (PROTACs) is emerging as a promising strategy for targeted protein degradation. However, the drug develo\nProteolysis-targeting chimera (PROTAC) has been developed to be a useful technology for targeted protein degradation. A bifunctional PROTAC molecule consists of a ligand (mostly small-molecule inhibitor) of the protein of interest (POI) and a covalently linked ligand of an E3 ubiquitin ligase (E3). Upon binding to the POI, the PROTAC can recruit E3 for POI ubiquitination, which is subjected to proteasome-mediated degradation.\nTargeted protein degradation using Proteolysis Targeting Chimeras (PROTACs) has emerged as a novel therapeutic modality in drug discovery. PROTACs mediate the degradation of select proteins of interest (POIs) by hijacking the activity of E3 ubiquitin ligases for POI ubiquitination and subsequent degradation by the 26S proteasome.\nProteolysis-targeting chimeras (PROTACs) are engineered techniques for targeted protein degradation. A bifunctional PROTAC molecule with two covalently-linked ligands recruits target protein and E3 ubiquitin ligase together to trigger proteasomal degradation of target protein by the ubiquitin-proteasome system.\n",
+        "qas": [
+          {
+            "question": "What is a PROTAC?",
+            "id": "641461bb201352f04a000046",
+            "answers": [
+              {
+                "text": "Proteolysis targeting chimeras (PROTACs) are molecules that induce protein degradation via formation of ternary complexes between an E3 ubiquitin ligase and a target protein.",
+                "answer_start": 0
+              },
+              {
+                "text": "PROteolysis TArgeting Chimeras (PROTACs) technology is a new proteindegradation strategy that has emerged in recent years.Proteolysistargeting chimeras (PROTACs) are heterobifunctional molecules ",
+                "answer_start": 0
+              },
+              {
+                "text": "A PROTAC is a small molecule that is composed of a ligand that recruits the target protein of interest (POI), a ligand specific for an E3 ubiquitin ligase enzyme, and a linker that connects these units. Upon binding to the POI, the PROTAC recruits the E3 inducing ubiquitylation-dependent proteasome degradation of the POI.",
+                "answer_start": 0
+              },
+              {
+                "text": "A PROTAC (Proteolysis Targeting Chimera) is a small molecule that can target and degrade proteins by recruiting an E3 ubiquitin ligase to the target protein. It is composed of two parts: a ligand that binds to the target protein and a second molecule that binds to the E3 ubiquitin ligase.",
+                "answer_start": 0
+              },
+              {
+                "text": "A PROTAC is a heterobifunctional molecule that induces protein degradation by forming a ternary complex between a target protein and an E3 ubiquitin ligase. It consists of two ligands - one that binds to the target protein and the other that recruits the E3 ubiquitin ligase",
+                "answer_start": 0
+              },
+              {
+                "text": "A PROTAC (Proteolysis-Targeting Chimera) is a heterobifunctional molecule designed to induce the degradation of specific target proteins by bringing them in close proximity to an E3 ubiquitin ligase, which then tags the target protein for degradation by the cell's proteasome system",
+                "answer_start": 0
+              },
+              {
+                "text": "Proteolysis-targeting chimeras (PROTACs) are heterobifunctional molecules consisting of one ligand that binds to a protein of interest (POI) and another that can recruit an E3 ubiquitin ligase.",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "The \"Virtual Digital Twins\" Concept in Precision Nutrition\nWe herein discuss how genetic information combined with longitudinal metabolomic, immune, behavioral, and gut microbial parameters, and bioclinical variables could define a digital replica of oneself, a \"virtual digital twin,\" which could serve to guide nutrition in a personalized manner.\n",
+        "qas": [
+          {
+            "question": "Can the concept of digital twins be applied in Precision Nutrition?",
+            "id": "6410f839201352f04a000032",
+            "answers": [
+              {
+                "text": "y",
+                "answer_start": 0
+              },
+              {
+                "text": "e",
+                "answer_start": 0
+              },
+              {
+                "text": "s",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "BACKGROUND: Teclistamab is a T-cell-redirecting bispecific antibody that targets both CD3 expressed on the surface of T cells and B-cell maturation antigen expressed on the surface of myeloma cells.\nBACKGROUND: Teclistamab (JNJ-64007957), a B-cell maturation antigen \u00d7 CD3 bispecific antibody, displayed potent T-cell-mediated cytotoxicity of multiple myeloma cells in preclinical studies.\nThe bispecific antibodies teclistamab (BCMA\u00d7CD3) and talquetamab (G protein-coupled receptor family C group 5 member D [GPRC5D]\u00d7CD3) are in clinical development as therapies for MM. \nTeclistamab (TECVAYLI\u00ae), a bispecific antibody that targets CD3 and B cell maturation antigen (BCMA), is being developed by Janssen Research and Development for the treatment of relapsed or refractory multiple myeloma. \n",
+        "qas": [
+          {
+            "question": "What is the mechanism of action of Teclistamab?",
+            "id": "63eef6edf36125a42600000d",
+            "answers": [
+              {
+                "text": "Teclistamab is a bispecific antibody that targets CD3 and B cell maturation antigen (BCMA) and is being developed for the treatment of relapsed or refractory multiple myeloma.",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Cholestasis of pregnancy is the commonest liver disease unique to pregnancy and is characterized by pruritus in the mother in late pregnancy, without any skin rashes. This is accompanied by an elevation of the serum bile acids. \ndiagnosis of liver disease when conventional liver function test such as SGOT, alkaline phosphatase, bilirubin and albumin are still normal. Serum bile acid determinations have been shown to be particularly useful in the diagnosis of alcoholic liver disease, drug-induced liver disease, viral hepatitis and cholestasis of intra- and extrahepatic origin. \nCONCLUSIONS: Plasma bilirubin seems to be the best liver function test in distinguishing patients with malignant bile duct strictures from those with bile duct stones. This routine test should receive more attention in clinical decision-making than has previously been given.\n bilirubin proved to be the best laboratory test in differentiating patients (p=0.001 vs. alkaline phosphatase, p<0.001 vs. alanine aminotransferase and p<0.001 vs. gamma-glutamyltransferase). With a plasma bilirubin cutoff value of 145 micromol/L, four out of five patients were categorized \nPlasma bilirubin (p<0.001), alkaline phosphatase (p<0.001) and alanine aminotransferase (p=0.040) levels were significantly higher in patients with malignant bile duct strictures than in those with bile duct stones.\nPlasma alkaline phosphatase, gamma-glutamyltransferase, alanine aminotransferase and bilirubin values were determined in the morning before ERCP\nIntrahepatic cholestasis of pregnancy (ICP) is the most frequent pregnancy-specific liver disease. It is characterized by pruritus and an accompanying elevation of serum bile acid concentrations and/or alanine aminotransferase (ALT), which are the key parameters in the diagnosis.\n The liver function test revealed elevated levels of serum total bile acids, bilirubin, and transaminases; however, the \u03b3-glutamyl transferase level was norma\nCholestasis is usually suspected clinically when a patient presenting with jaundice or pruritus is found to have an elevation in serum alkaline phosphatase activity disproportionate to increases in serum aminotransferase levels.\nThe biochemical parameters traditionally used for the assessment of extrahepatic cholestasis, AP, GGT, and bilirubin, do not support the diagnosis of intrahepatic cholestasis caused by cirrhosis.\nase (ALT), aspartate aminotransferase (AST), alkaline phosphatase and bilirubin. These tests should be termed liver chemistries or liver tests. Hepatocellular injury is defined as disproportionate elevation of AST and ALT levels compared with alkaline phosphatase levels. Cholestatic injury is defined as disproportionate elevation of alkaline phosphatase level as compared with AST and ALT levels. Th\n",
+        "qas": [
+          {
+            "question": "The diagnosis of cholestasis is based on the elevations seen in what liver function tests?",
+            "id": "640c8309201352f04a000024",
+            "answers": [
+              {
+                "text": [
+                  "Alkaline phosphatase",
+                  "ALP"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "Alanine aminotransferase",
+                  "ALT"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "Aspartate Aminotransferase",
+                  "AST"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "Bilirubin"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "Serum Bile Acids"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "On October 24, 2016, the U.S. Food and Drug Administration (FDA) approved pembrolizumab (Keytruda; Merck & Co., Inc., https://www.merck.com) for treatment of patients with metastatic non-small cell lung cancer (mNSCLC) whose tumors express programmed death-ligand 1 (PD-L1) as determined by an FDA-approved test, as follows: (a) first-line treatment of patients with mNSCLC whose tumors have high PD-L1 expression (tumor proportion score [TPS] \u226550%), with no epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) genomic tumor aberrations, and (b) treatment of patients with mNSCLC whose tumors express PD-L1 (TPS \u22651%), with disease progression on or after platinum-containing chemotherapy.\n",
+        "qas": [
+          {
+            "question": "Which company produces Keytruda?",
+            "id": "6415c599690f196b51000013",
+            "answers": [
+              {
+                "text": [
+                  "Merck & Co., Inc."
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "INTERPRETATION: Pioglitazone did not delay the onset of mild cognitive impairment.\n",
+        "qas": [
+          {
+            "question": "Based on clinical trial data, can pioglitazone delay cognitive impairment for people at risk for Alzheimer's disease?",
+            "id": "64040edf201352f04a000011",
+            "answers": [
+              {
+                "text": "n",
+                "answer_start": 0
+              },
+              {
+                "text": "o",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Cereblon is a well-known target of thalidomide and its derivatives.\nWe have identified novel CRBN inhibitors, namely DHFO and its analogs, with structural features that are slightly different from thalidomide but stronger cereblon-binding affinity. \n It additionally modulates the anti-myeloma effect of the immunomodulatory drugs (IMiDs) thalidomide, lenalidomide, and pomalidomide. IMiDs bind to CRBN and recruit neo-substrates for their ubiquitination and proteasome-mediated degradation\n. Cereblon (CRBN)-targeting immunomodulatory agents (IMiDs\u00ae) lenalidomide (LEN) and pomalidomide (POM) play a central role in combination regimens due to their pleiotropic antitumor/immunomodulatory mechanisms that synergize with many anti-myeloma approved or developmental agents.\nThalidomide, well known for its potent teratogenicity, has been re-evaluated as a clinically effective drug for the treatment of multiple myeloma. Although the direct target of thalidomide had been unclear until recently, we identified cereblon (CRBN) as a primary direct target of this drug b\nThe molecular mechanism of action of IMiDs remained unclear for a long time until 2010 when the protein cereblon (CRBN) was identified as a primary direct target. IMiDs binds to CRBN and alters the substrate specificity of the CRBN E3 ubiquitin ligase complex, \nThese results strongly suggest that increased BK channel activity is the pathological mechanism of intellectual disability in CRBN mutations.SIGNIFICANCE STATEMENTCereblon (CRBN), a well known target of the immunomodulatory drug thalidomide, was originally identified as a gene that causes human intellectual disability when mutated.\nCereblon is a direct protein target for immunomodulatory and antiproliferative activities of lenalidomide and pomalidomide.\nCereblon (CRBN), a substrate receptor for the cullin-RING ubiquitin ligase 4 (CRL4) complex, is a direct protein target for thalidomide teratogenicity and antitumor activity of immunomodulatory drugs (IMiDs).\nOur biophysical, biochemical and gene silencing studies show that CRBN is a proximate, therapeutically important molecular target of lenalidomide and pomalidomide.\nCRBN has been identified as a direct target for immunomodulatory drugs (IMiD) and plays a significant role in anti-proliferation, pro-apoptotic effects, anti-angiogenic activities, immunomodulatory activities and intervention of cell surface adhesion molecules between myeloma cells and bone marrow stromal cells.\nThalidomide and its derivatives lenalidomide and\u00a0pomalidomide, known as immunomodulatory drugs, (IMiDs)\u00a0bind\u00a0directly to cereblon (CRBN), a substrate receptor of an E3 ubiquitin ligase, resulting in the rapid ubiquitination and degradation of the substrate protein.\nCereblon (CRBN) is a common primary target for IMiDs.\nCereblon (CRBN), a substrate receptor of the CRL4 ubiquitin ligase complex, is the primary target by which IMiDs mediate anticancer and teratogenic effects.\nCereblon (CRBN) has recently been identified as a target for immunomodulatory drugs (IMiDs) and its downregulation has been linked to resistance to lenalidomide.\nCereblon (CRBN), originally identified as a gene associated with intellectual disability, was identified as primary target of thalidomide.\nClinical interest in the measurement of Cereblon (CRBN), the primary target of the IMiDs immunomodulatory drugs lenalidomide and pomalidomide, has been fueled by its essential requirement for antitumor or immunomodulatory activity of both drugs in multiple myeloma (MM).\nCereblon (CRBN), a substrate receptor for Cullin-ring E3 ubiquitin ligase (CRL), is a major target protein of immunomodulatory drugs.\nCereblon (CRBN), a substrate receptor of the Cullin 4 RING E3 ubiquitin ligase complex, is the target of the immunomodulatory drugs lenalidomide and pomalidomide.\nCereblon was identified as a direct target of thalidomide by Prof. H. Handa, and this pioneering work triggered active research on IMiDs (immunomodulatory drugs), which include thalidomide-derivatives, such as lenalidomide and pomalidomide.\nThe Cullin-RING ligase 4 E3 ubiquitin ligase component Cereblon (CRBN) is a well-established target for a class of small molecules termed immunomodulatory drugs (IMiDs).\n We identified a thalidomide-binding protein, cereblon (CRBN), as a primary target for thalidomide teratogenicity.\n Although the direct target of thalidomide was largely debated until recently, our groups discovered cereblon (CRBN), a substrate receptor of an E3 ubiquitin ligase as a primary target of thalidomide in 2010.\n Cereblon (CRBN) is a common primary target for IMiDs.\nd previously demonstrated that cereblon (CRBN) is the target of thalidomide embryopathy and acts as a substrate receptor for the E3 ubiquitin ligase c\ndy recently identified cereblon (CRBN) as a primary target of thalidomide teratogenicity. Subsequently it was demonstrated that CRBN is also required \nCereblon (CRBN) has recently been identified as a target for immunomodulatory drugs (IMiDs) and its downregulation has been linked to resistance to le\nCereblon (CRBN), the molecular target of lenalidomide and pomalidomide, is a substrate receptor of the cullin ring E3 ubiquitin ligase complex, CRL4(C\neblon (CRBN) has been identified as the primary teratogenic target of thalidomide. Our studies demonstrate that thalidomide, lenalidomide and another \nCereblon (CRBN), the molecular target of lenalidomide and pomalidomide, is a substrate receptor of the cullin ring E3 ubiquitin ligase complex, CRL4(CRBN) .\ncluding multiple myeloma. Cereblon (CRBN) is a common primary target for IMiDs. It works as a substrate receptor of CRL4. Accumulating evidence has sh\nubiquitin ligase complex component. Cereblon is a well-known target of thalidomide and its derivatives. Cereblon is involved in multiple myeloma cell \n",
+        "qas": [
+          {
+            "question": "Cereblon (CRBN)  has been identified as the target for what type of drug?",
+            "id": "6414638c201352f04a000047",
+            "answers": [
+              {
+                "text": [
+                  "Immunomodulatory drugs (IMiDs)",
+                  "Thalidomide",
+                  "pomalidomide",
+                  "lenalidomide"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "SRRM4 Expands the Repertoire of Circular RNAs by Regulating Microexon Inclusion.\nOverexpressing SRRM4, known for regulating ME inclusion in mRNAs critical for neural differentiation, in human HEK293 cells resulted in the biogenesis of over 2000 novel ME-circRNAs, including ME-circEIF4G3, and changes in the abundance of many canonical circRNAs, including circSETDB2 and circLBRA. \n",
+        "qas": [
+          {
+            "question": "Does silencing of SRRM4 promote microexon inclusion?",
+            "id": "63f9cdb033942b094c000012",
+            "answers": [
+              {
+                "text": "n",
+                "answer_start": 0
+              },
+              {
+                "text": "o",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "AZD7442, a combination of two long-acting monoclonal antibodies (tixagevimab [AZD8895] and cilgavimab [AZD1061]), has been authorized for the prevention and treatment of coronavirus disease 2019 (COVID-19). \nIntramuscular AZD7442 (tixagevimab-cilgavimab) for prevention of Covid-19. \nAssociation Between AZD7442 (Tixagevimab-Cilgavimab) Administration and Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection, Hospitalization, and Mortality.\nBACKGROUND: Intramuscular AZD7442 (Tixagevimab-Cilgavimab, (Evusheld)) has been found effective among immunocompromised individuals (ICI) in reducing Sars-Cov-2 infection and severe disease in ICIs. \n",
+        "qas": [
+          {
+            "question": "Which drugs are included in the AZD7442?",
+            "id": "63f03a20f36125a42600001c",
+            "answers": [
+              {
+                "text": [
+                  "tixagevimab"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "cilgavimab"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "2 different programmed cell death protein 1 (PD-1) inhibitors, Nivolumab and Pembrolizumab.\nThe first monoclonal antibodies against the immune checkpoint programmed death 1 (PD-1) receptor, nivolumab and pembrolizumab, are now approved for clinical use\ne programmed cell death protein 1 (PD-1) inhibitors, nivolumab and pembrolizumab, have quickly been incorporated into clinical trials for first- and second-line therapy of Hodgkin lymphoma.\nThe first programmed death 1 (PD-1) inhibitor, pembrolizumab, was recently approved by the United States Food and Drug Administration for the treatment of melanoma; nivolumab was previously approved in Japan. \nEarly-phase studies investigating several humanized monoclonal IgG4 antibodies targeting PD-1 and PD-L1 in advanced solid tumors paved way for the development of the first PD-1 inhibitors, nivolumab and pembrolizumab, approved by the Food and Drug Administration (FDA) in 2014.\nNivolumab (Opdivo, Bristol Meyer Squibb, New York, NY) and pembrolizumab (Keytruda, Merck, Kenilworth, NJ) are the first two US Food and Drug Administration (FDA)-approved monoclonal antibodies targeting programmed death-1 (PD-1).\nThe US Food and Drug Administration (FDA) has approved 2 PD-1 inhibitors, nivolumab and pembrolizumab, and several others are under investigation.\nThe first programmed death 1 (PD-1) inhibitor, pembrolizumab, was recently approved by the United States Food and Drug Administration for the treatment of melanoma; nivolumab was previously approved in Japan.\nother tumors. In 2014, nivolumab and pembrolizumab, two checkpoint inhibitors binding to PD-1, were approved for the treatment of metast\n Pembrolizumab is one of the first immune checkpoint inhibitors approved by the FDA to treat NSCLC and is currently the only immunotherapy drug approved for first-line treatment of NSCLC in immune checkpoint inhibitors.\n A PD-1 antibody, nivolumab, was the first of these agents to be approved by the Pharmaceuticals and Medical Devices Agency (PMDA) of Japan, as a new cancer drug for melanoma, in July 2014.\ns paved way for the development of the first PD-1 inhibitors, nivolumab and pembrolizumab, approved by the Food and Drug Administration (FDA) in 2014.\nministration (FDA) approved the first PD-1 targeting agent, namely pembrolizumab, shortly followed by nivolumab. Areas covered: Nivolumab is a fully h\n",
+        "qas": [
+          {
+            "question": "What were the first 2 PD-1 inhibitors approved by the FDA in 2014?",
+            "id": "640ddd9d201352f04a000028",
+            "answers": [
+              {
+                "text": [
+                  "Pembrolizumab",
+                  "Keytruda"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "Nivolumab",
+                  "Opdivo"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Dermatillomania or skin picking disorder (SPD) is a chronic, recurrent, and treatment resistant neuropsychiatric disorder with an underestimated prevalence that has a concerning negative impact on an individual's health and quality of life. \n",
+        "qas": [
+          {
+            "question": "What is the difference between dermatillomania and skin picking disorder?",
+            "id": "6414c4cf690f196b51000006",
+            "answers": [
+              {
+                "text": [
+                  "None"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Non-pathogenic Rickettsia species LON strains closely related to an agent of Japanese spotted fever (JSF), R. japonica, were isolated in Japan from Haemaphysalis longicornis ticks in 2001. \nSevere fever with thrombocytopenia syndrome (SFTS) and Japanese spotted fever (JSF; a spotted fever group rickettsiosis) are tick-borne zoonoses that are becoming a significant public health threat in Japan and East Asia.\nRickettsia japonica is a member of SFG rickettsiae causing Japanese spotted fever (JSF) and can transmit to humans via infected ticks. \n",
+        "qas": [
+          {
+            "question": "What causes Japanese Spotted Fever?",
+            "id": "63eefa3bf36125a426000012",
+            "answers": [
+              {
+                "text": [
+                  "Rickettsia japonica"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "To compare the real-world safety profile of programmed cell death-1 (PD-1) and programmed cell death ligand-1 (PD-L1) inhibitors between younger and older patients\nProgrammed Cell Death Receptor (PD-1) and its Ligand (PD-L1) pathway inhibitor therapy has been explored in the field of oncology treatment mainly for solid tumors.\n Inhibitors of programmed cell death-1 (PD-1) and its ligand (PD-L1) have been increasingly used in head and neck cancer therapy and reported to improve the outcomes with an acceptable safety profile.\nEngagement of programmed death-1 (PD-1) with its two ligands [programmed death ligand-1 (PD-L1) and PD-L2] has been associated with the suppression of tumor-reactive T cells; however, the underlying mechanism for this T-cell dysfunction is not clear.\nPD-1 interacts with two ligands, PD-L1 and PD-L2.\nExpression of the programmed death-1 (PD-1) ligand 1 (PD-L1) is used to select patients and analyze responses to anti-PD-1/L1 antibodies.\nPD-1 has two ligands: PD-1 ligand 1 (PD-L1), which is expressed broadly on hematopoietic and parenchymal cells, including pancreatic islet cells; and PD-L2, which is restricted to macrophages and dendritic cells.\nBACKGROUND: Monoclonal antibodies against programmed cell death protein 1 (PD-1) and programmed death ligand 1 (PD-L1) are effective therapies in patients with non-small cell lung can\nPD-L1 and PD-L2 are ligands for PD-1, a costimulatory molecule that plays an inhibitory role in regulating T cell activation in the periphery.\nPD-1 has two ligands: PD-L1, expressed on hematopoietic and nonhematopoietic cells, and PD-L2, limited to DCs and macrophages.\nProgrammed death-1 (PD-1) is an immune checkpoint that is able to inhibit the immune system by binding to its ligand programmed death-ligand 1 (PD-L1).\nFinally, we could demonstrate that PD-L1 and PD-L2 competed for PD-1 binding and conversely, an antagonist PD-1 mAb blocked both PD-L1 and PD-L2 binding to PD-1 and strongly enhanced T-cell proliferation.\nast cancer. Programmed death-1 (PD-1) and its ligand, programmed death-ligand 1\u00a0(PD-L1), seem to have prognostic and predictive values in a variety of cancers, including female br\nImportance: Immune checkpoint inhibitors of programmed cell death 1 (PD-1) and its ligand (PD-L1) have led to a paradigm shift in cance\nosuppression. Programmed death-1 (PD1) and its ligand programmed death ligand-1 (PD-L1) exert inhibitory function by regulating the balance among T cell activation, tolerance, and im\nPD-1 has two ligands PD-L1 and PD-L2.\n",
+        "qas": [
+          {
+            "question": "What is the difference between PD-1 and PD-L1?",
+            "id": "640dde93201352f04a000029",
+            "answers": [
+              {
+                "text": "PD-1 and PD-L1 inhibitors act to inhibit the association of the programmed death-ligand 1 (PD-L1) with its receptor, programmed cell death protein 1 (PD-1). PD-L1 is the receptor that binds to the PD-L1 protein",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "We herein discuss how genetic information combined with longitudinal metabolomic, immune, behavioral, and gut microbial parameters, and bioclinical variables could define a digital replica of oneself, a \"virtual digital twin,\" which could serve to guide nutrition in a personalized manner. Such a model may revolutionize the management of obesity and its comorbidities, and provide a pillar for healthy aging.\n",
+        "qas": [
+          {
+            "question": "What would be the benefits of using a virtual digital twin in nutrition?",
+            "id": "6410f8b2201352f04a000033",
+            "answers": [
+              {
+                "text": "A \"virtual digital twin,\" could serve to guide nutrition in a personalized manner, thus revolutionizing the management of obesity and its comorbidities, and providing a pillar for healthy aging.",
+                "answer_start": 0
+              },
+              {
+                "text": "The benefits of using a virtual digital twin in nutrition include:\n\n1. Individualized nutrition recommendations\n2. Improved health outcomes\n3. Reduced risk of chronic diseases\n4. Improved quality of life",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "INTERPRETATION: Levosimendan was not superior to placebo in maintaining respiratory function in a broad population with amyotrophic lateral sclerosis. Although levosimendan was generally well tolerated, increased heart rate and headache occurred more frequently with levosimendan than with placebo.\nCONCLUSIONS: Levosimendan did not achieve the primary endpoint of improving sitting SVC in ALS. Headache and increased heart rate were increased on levosimendan, although it was otherwise well tolerated. \n",
+        "qas": [
+          {
+            "question": "Is levosimendan effective for amyotrophic lateral sclerosis?",
+            "id": "64040af9201352f04a00000d",
+            "answers": [
+              {
+                "text": "n",
+                "answer_start": 0
+              },
+              {
+                "text": "o",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "X-linked ornithine transcarbamylase deficiency (OTCD) is the most common urea cycle defect. The disease severity ranges from asymptomatic carrier state to severe neonatal presentation with hyperammonaemic encephalopathy. \nOrnithine transcarbamylase deficiency (OTC-D) is an X-linked metabolic disease and the most common urea cycle disorder. Due to high phenotypic heterogeneity, ranging from lethal neonatal hyperammonemic events to moderate symptoms and even asymptomatic individual\nDeficiency of ornithine transcarbamylase, an enzyme in the urea cycle, results in hyperammonemia\nextreme irritability (100 percent), episodic vomiting and lethargy (100 percent), protein avoidance (92 percent), ataxia (77 percent), Stage II coma (46 percent), delayed physical growth (38 percent), developmental delay (38 percent), and seizures\nOrnithine transcarbamylase deficiency causes vomiting, lethargy, hyperventilation, and even death, mainly in the neonatal period.\n",
+        "qas": [
+          {
+            "question": "What are the clinical symptoms of an ornithine transcarbamylase deficiency?",
+            "id": "6414c0f7690f196b51000001",
+            "answers": [
+              {
+                "text": [
+                  "seizures"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "developmental delay"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "hyperammonaemic encephalopathy"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "hyperammonemia,"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "delayed physical growth"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "Stage II coma"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "ataxia"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "protein avoidance"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "vomiting"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "lethargy"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "irritabilty"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Alternative splicing of HSPA12A pre-RNA by SRSF11 contributes to metastasis potential of colorectal cancer.\nSRSF11 exerts pro-metastatic effects in CRC by inhibiting the AS of HSPA12A pre-RNA. Our findings point to SRSF11-regulated HSPA12A splicing as a novel relationship between SRSF11-regulated splicing and CRC metastasis and suggest a PAK5/SRSF11/HSPA12A axis as a potential therapeutic target and prognostic biomarker in CRC.\n",
+        "qas": [
+          {
+            "question": "How does SRSF11 contribute to metastasis potential of colorectal cancer?",
+            "id": "63fa197c201352f04a000003",
+            "answers": [
+              {
+                "text": "SRSF11 exerts pro-metastatic effects in colorectal cancer by inhibiting the AS of HSPA12A pre-RNA.",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Olokizumab, a monoclonal antibody against interleukin 6, in combination with methotrexate in patients with rheumatoid arthritis inadequately controlled by methotrexate: efficacy and safety results of a randomised controlled phase III study.\nOBJECTIVE: To evaluate the efficacy and safety of olokizumab (OKZ) in patients with active rheumatoid arthritis despite treatment with methotrexate (MTX).\nCONCLUSIONS: Treatment with OKZ was associated with significant improvement in signs, symptoms and physical function of rheumatoid arthritis without discernible differences between the two regimens. \nOlokizumab versus Placebo or Adalimumab in Rheumatoid Arthritis.\nBACKGROUND: The cytokine interleukin-6 is involved in the pathogenesis of rheumatoid arthritis. Olokizumab, a humanized monoclonal antibody targeting the interleukin-6 cytokine directly, is being tested for the treatment of rheumatoid arthritis.\nCONCLUSIONS: In patients with rheumatoid arthritis who were receiving maintenance methotrexate, olokizumab was superior to placebo and noninferior to adalimumab in producing an ACR20 response at 12 weeks. Larger and longer trials are required to determine the efficacy and safety of olokizumab in patients with rheumatoid arthritis. \n",
+        "qas": [
+          {
+            "question": "Olokizumab is tested for which disease?",
+            "id": "63eef60ef36125a42600000c",
+            "answers": [
+              {
+                "text": [
+                  "rheumatoid arthritis"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "ROAP regulates cell cycle and promotes tumor progression through Wnt/\u03b2-Catenin signaling pathway in glioma cells.\nTrophinin associated protein (TROAP) is a cytoplasmic protein required for spindle assembly and cell invasion; however, its biological function in cancer remains to be elucidated\nTrophinin-associated protein (TROAP) was a protein first identified to mediate the process of embryo transplantation and later found to be involved in microtubule regulation.\nPurpose: Trophinin-associated protein (TROAP) is a cytoplasmic protein that plays a significant role in the processes of embryo transplantation and microtubule regulation.\non subtype. Trophinin-associated protein (TROAP) is a cytoplasmic protein first identified to mediate the process of embryo transplantation, which has been recently found to be involved in microtubule\nTrophinin associated protein (TROAP) is essential for centrosome integrity and proper bipolar organisation of spindle assembly during mitosis and plays an essential role in proliferation.\nBACKGROUND: Trophinin-associated protein (TROAP) mediates embryonic transfer, regulates microtubules, and is associated with the biological behavior of vari\nTaken together, these results indicate that TROAP suppresses cellular growth and migration in HCC.\nDownregulated Trophinin-Associated Protein Plays a Critical Role in Human Hepatocellular Carcinoma Through Upregulation of Tumor Cell Growth and Migration.\nTROAP depletion significantly enhanced the proliferation and colony formation abilities, whereas TROAP overexpression had an inhibitory effect on the growth of HCC cells.\nTrophinin-associated protein (TROAP) is a cytoplasmic protein required for microtubular cytoskeleton regulation and spindle assembly, and its expression plays a critical role in the initiation and progression of various types of cancer.\nTrophinin associated protein (TROAP) is a cytoplasmic protein required for spindle assembly and cell invasion; however, its biological function in cancer remains to be elucidated.\nBACKGROUND: Trophinin-associated protein (TROAP) is a cytoplasmic protein that functions as an adhesion molecule in processes such as embryo implantation, spindle formation, and cancer.OBJECTIVE: To evaluate the relationship of TROAP expression in hepatocellular carcinoma (HCC) tissue with clinicopathologic parameters and survival time in liver cancer patients based on an analysis of The Cancer Genome Atlas Liver Hepatocellular Carcinoma (TCGA-LIHC) data.METHODS: RNA-sequencing (RNA-Seq) expression data and clinical information were down\nTROAP regulates prostate cancer progression via the WNT3/survivin signalling pathways.\nConclusions: Elevated TROAP expression predicted a poor prognosis, and TROAP may serve as a potential biomarker for application in oncotherapy.\nThe Upregulation of Trophinin-Associated Protein (TROAP) Predicts a Poor Prognosis in Hepatocellular Carcinoma.\nAltogether, our results show that TROAP is a novel crucial regulator of HCC progression and is a potential therapeutic biomarker for HCC patients.\nTrophinin and tastin, a novel cell adhesion molecule complex with potential involvement in embryo implantation.\nTrophinin-associated protein (TROAP) has been shown to be overexpressed and promotes tumor progression in some tumors.\nBACKGROUND: Trophinin-associated protein (TROAP) mediates embryonic transfer, regulates microtubules, and is associated with the biological behavior o\nsociated protein (TROAP) has been shown to be overexpressed and promotes tumor progression in some tumors. We performed this study to assess the biolo\nctopic expression of trophinin-associated protein (TROAP) dramatically drove HCC cell growth assessed by foci formation in monolayer culture, colony f\n. Taken together, these results indicate that TROAP suppresses cellular growth and migration in HCC. This discovery will further our understanding of \nn (TROAP) is a cytoplasmic protein first identified to mediate the process of embryo transplantation, which has been recently found to be involved in \nBACKGROUND: Trophinin-associated protein (TROAP) mediates embryonic transfer, regulates microtubules, and is associated with the biological behavior of various cancers\nn (TROAP) is a cytoplasmic protein first identified to mediate the process of embryo transplantation, which has been recently found to be involved in microtubule regulation. However, limited informati\nl role of TROAP (Trophinin-associated protein) in regulating the cell proliferation of multiple tumors, while TROAP expression and function were largely unknown in glioma. We aimed to investigate the oncogenic role of T\nciated protein (TROAP) is a cytoplasmic protein that functions as an adhesion molecule in processes such as embryo implantation, spindle formation, and cancer.OBJECTIVE: To evaluate th\nAIMS: Experimental evidence demonstrated a crucial role of TROAP (Trophinin-associated protein) in regulating the cell proliferation of multiple tumors, while TROAP expression and function were largely unknown in glioma.\nClear cell renal cell carcinoma (ccRCC) is a subtype of renal cell cancer with the highest mortality, infiltration, and metastasis rate, threatening human health. Despite oncogenic role of TROAP in various cancers, its function in ccRCC remains to be unraveled.\nophinin-associated protein expression is an independent prognostic biomarker in lung adenocarcinoma.\n: Our results suggested that TROAP is an independent prognostic biomarker of poor survival in LAC\n",
+        "qas": [
+          {
+            "question": "Please summarize the function of Trophinin-associated protein (TROAP)",
+            "id": "6413730e201352f04a00003f",
+            "answers": [
+              {
+                "text": "Trophinin-associated protein (TROAP) mediates embryonic transfer, regulates microtubules and cell cycle, and is associated with the biological behavior of various cancers.",
+                "answer_start": 0
+              },
+              {
+                "text": "TROAP is a cytoplasmic protein that is required for spindle assembly and cell invasion. Its role in cancer is not yet fully understood, but it has been shown to regulate cell cycle and promote tumor progression through Wnt/\u03b2-Catenin signaling pathway in glioma cells.",
+                "answer_start": 0
+              },
+              {
+                "text": "Trophinin-associated protein (TROAP) is a cytoplasmic protein that plays a role in spindle assembly and cell invasion. Its biological function in cancer is still being studied",
+                "answer_start": 0
+              },
+              {
+                "text": "Trophinin-associated protein (TROAP) is a cytoplasmic protein involved in spindle assembly and cell invasion. Its role in cancer, particularly in promoting tumor progression, is still being explored, with studies suggesting a connection to the Wnt/\u03b2-Catenin signaling pathway in glioma cells",
+                "answer_start": 0
+              },
+              {
+                "text": "Trophinin associated protein (TROAP) is a cytoplasmic protein required for spindle assembly and cell invasion; however, its biological function in cancer remains to be elucidated",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Alternative splicing of HSPA12A pre-RNA by SRSF11\nSRSF11 exerts pro-metastatic effects in CRC by inhibiting the AS of HSPA12A pre-RNA. Our findings point to SRSF11-regulated HSPA12A splicing as a novel relationship between SRSF11-regulated splicing and CRC metastasis and suggest a PAK5/SRSF11/HSPA12A axis as a potential therapeutic target and prognostic biomarker in CRC.\n",
+        "qas": [
+          {
+            "question": "How does SRSF11 promote metastasis of colon cancer?",
+            "id": "6410ed73201352f04a00002f",
+            "answers": [
+              {
+                "text": "SRSF11 exerts pro-metastatic effects in CRC by inhibiting the AS of HSPA12A pre-RNA.",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Structural and Mechanistic Bases of Viral Resistance to HIV-1 Capsid Inhibitor Lenacapavir.\nLenacapavir (LEN) is a long-acting, highly potent HIV-1 capsid (CA) inhibitor. \nThe investigational drug lenacapavir accesses unoccupied hydrophobic pockets in the complex to potently impair HIV-1 inside the nucleus without displacing the tightly bound cellular cofactor from virus cores. \nLenacapavir (Sunlenca\u00ae) is a long-acting capsid inhibitor of human immunodeficiency virus type\u00a01 (HIV-1) being developed by Gilead Sciences Inc. \nIn August 2022, lenacapavir received its first approval in the EU for use in combination with other antiretroviral(s) in adults with multi-drug resistant HIV infection, for whom it is otherwise not possible to construct a suppressive anti-viral regimen. This article summarizes the milestones in the development of lenacapavir leading to this first approval for the treatment of HIV-1 infection.\nLenacapavir: a first-in-class HIV-1 capsid inhibitor.\nPURPOSE OF REVIEW: This review summarizes available data for lenacapavir, an investigational first-in-class agent that disrupts functioning of HIV capsid protein across multiple steps in the viral life cycle.RECENT FINDINGS: Lenacapavir demonstrated picomolar potency in vitro with no cross resistance to existing antiretroviral classes and potent antiviral activity in persons with HIV-1. In persons with HIV-1, there was no preexisting resistance to lenacapavir regardless of treatment history.\nIn heavily treatment-experienced persons with multidrug-resistant HIV-1 and in treatment-naive persons with HIV-1, lenacapavir in combination with other antiretroviral agents led to high rates of virologic suppression and was well tolerated.SUMMARY: Ongoing studies are evaluating long-acting dosing of lenacapavir for treating HIV-1 in combination with other antiretrovirals and preventing HIV-1 as a single agent.\n",
+        "qas": [
+          {
+            "question": "What disease can be treated with Lenacapavir?",
+            "id": "63f03fc8f36125a426000021",
+            "answers": [
+              {
+                "text": [
+                  "HIV-1"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Intravenous iron therapy is increasingly being used worldwide to treat anemia in chronic kidney disease and more recently iron deficiency in heart failure.\n iron deficiency in patients with chronic kidney disease (CKD), either with or without anaemia. \nIron deficiency, both functional and absolute, is common in patients with chronic kidney disease (CKD), especially those requiring dialysis.\nTreatment with iron preparations remains one of the main directions in the treatment of anemia in patients with chronic kidney disease.\nThis work presents an update on the management of iron deficiency in patients with chronic renal failure (CRF), either with or without anaemia.\nron replacement therapy in the management of anaemia in non-dialysis chronic renal failure patients:\nIron deficiency anemia is a common complication of chronic kidney disease (CKD).\nIron Deficiency Anemia in Chronic Kidney Disease.\nBACKGROUND: Iron deficiency anemia (IDA) is a common manifestation of chronic kidney disease (CKD), affecting most patients on hemodialysis and imposing a substantial clin\nAnemia is a common complication of chronic kidney disease (CKD) in predialysis stage.\nAnemia is a common and clinically important consequence of chronic kidney disease (CKD).\nAmong CKD patients, absolute iron deficiency is defined when the transferrin saturation (TSAT) is \u226420% and the serum ferritin concentration is \u2264100 ng/mL among predialysis and peritoneal dialysis patients or \u2264200 ng/mL among hemodialysis patients.\nBACKGROUND: Iron deficiency anemia is a common complication in patients with chronic kidney di\nIron deficiency anemia (IDA) is a frequent complication of chronic kidney disease (CKD) and is associated with adverse outcomes in these patients.\nIron deficiency anemia is a common complication in end-stage renal disease (ESRD) and impairs the therapeutic efficacy of recombinant erythropoietin.\nAnemia in CKD is associated with an increased risk of morbidity and mortality.\nBACKGROUND: Iron deficiency anemia and serum phosphate levels > 4.0mg/dL are relatively common in chronic kidney disease stages 3 to 5 and are associated with higher risks of progressive loss of kidney function, cardiovascular events, and mortality.STUDY DESIGN: Double-blind, placebo-controlled, randomized trial.SETTING & PARTICIPANTS: 149 patients with estimated glomerular filtration rates < 60 mL/min/1.73 m(2), iron deficiency anemia (hemoglobin, 9.0-12.0 g/dL; transferrin saturation [TSAT]\u2264 30%, serum ferritin \u2264 300 ng/\nAnemia resulting from iron and erythropoietin deficiencies is a common complication of advanced chronic kidney disease (CKD).\nIron deficiency is common in individuals with chronic kidney disease and plays a major role in the development of anemia.\nIron deficiency anemia is a common occurrence in patients with chronic kidney disease and many patients do not respond well to supplementation with oral iron.\nHowever, the diagnosis of iron-deficiency anemia in CKD patients is complicated by the relatively poor predictive ability of easily obtained routine serum iron indices (eg, ferritin and transferrin saturation) and more invasive gold standard measures of iron deficiency (eg, bone marrow iron stores) or erythropoietic response to supplemental iron.\nIron deficiency in patients with chronic kidney disease: potential role for intravenous iron therapy independent of erythropoietin.\nIron deficiency anemia is common in people with chronic kidney disease (CKD) and its importance in supporting erythropoiesis is unquestioned especially in those patients treated with erythropoietin.\n Limited data suggest that iron deficiency is common in patients with chronic kidney disease with anemia; this lack of iron can hinder the effectiveness of erythropoiesis.\nAnemia is a frequent complication of kidney disease.\nAnemia is a common complication of chronic kidney disease.\nSevere anemia and iron deficiency are common complications in chronic kidney disease.\nIron deficiency anemia is common in people with chronic kidney disease (CKD) and its importance in supporting erythropoiesis is unquestioned especiall\nIron deficiency anemia is a common complication of chronic kidney disease (CKD). CKD patients suffer from both absolute and functional iron deficiency\n diabetic nephropathy is a leading cause of CKD. One of the most common complications of CKD is anemia, the frequency and severity of which increase a\nAnemia is as a frequent complication in patients with chronic kidney disease, which gains in importance in the treatment of patients with renal diseas\nSevere anemia and iron deficiency are common complications in chronic kidney disease. The cause of renal anemia is multifactorial and includes decreas\nAnemia is a common complication in patients with chronic kidney disease (CKD), mainly due to inadequate renal production of erythropoietin. In hemodia\no anemia. The other cause of anemia is deficiency of iron. Iron deficiency anemia is common in people with CKD and its importance in supporting erythr\nAnemia is as a frequent complication in patients with chronic kidney disease, which gains in importance in the treatment of patients with renal disease.\n development and treat complications including anemia. Anemia is one of the common complication of chronic kidney disease (CKD), which is a significan\nThe diagnosis of iron deficiency anemia in patients with CKD is complicated due to the relatively low predictive ability of routine serum iron markers (e.g., ferritin and transferrin saturation) and more invasive measurements such as bone marrow iron stores.\nAnemia is a frequent complication in chronic kidney disease (CKD), and it is often accompanied by various clinical symptoms. The primary cause of anem\nIron deficiency anemia is a common complication of chronic kidney disease (CKD). CKD patients suffer from both absolute and functional iron deficiency.\nAnemia is a frequent complication during the later stages of chronic kidney disease.\nAnemia in chronic kidney disease is common and iron deficiency is an important cause.\nnemia in chronic kidney disease\nnemia is common and associated with adverse outcomes in children with chronic kidney disease (CKD\ne treatment of anemia in chronic kidney disease.\nhe prevalence of iron deficiency and its contribution to the anemia of end stage renal disease has been extensively studied, but much less is known about the role of iron deficiency in the pathogenesis of the anemia of chronic kidney disease in predialysis patients.\nnemia in renal disease: diagnosis and manageme\nAnemia is a very common clinical problem in patients with chronic kidney disease (CKD) and is associated with increased morbidity and mortality in these patients.\nSafety issues with intravenous iron products in the management of anemia in chronic kidney disease.\n Deciding on the appropriate treatment for anemia associated with CKD\nnemia in chronic kidney disease\nAnemia in ESRD and Earlier Stages of CKD\n Ferumoxytol for Anemia of CKD Trial \n anemia and reduction of serum phosphate in patients with CKD\nChronic kidney disease (CKD) is a widespread health problem in the world and anemia is a common complication\nnemia in diabetic kidney disease - underappreciated but still clinically relevant proble\nAnemia in children with chronic kidney disease\nnemia in children with chronic kidney disease (CKD) is common secondary to inadequate erythropoietin production\nechanisms of anemia in CKD\nAnemia is a common feature of CKD associated with poor outcomes.\nhe current management of patients with anemia in CKD is controversial, with recent c\nHere, we examine recent insights into the molecular mechanisms underlying anemia of CKD\nnemia of Inflammation with An Emphasis on Chronic Kidney Disease\n Treatment of Anemia in Patients with Chronic Kidney Disease\nnemia is a common complication of chronic kidney disease (CKD), and its prevalence has shown a tendency to increase in many countries.\nythropoietin resistance in the treatment of the anemia of chronic renal failure\nesistance to erythropoietin therapy is a common complication of the modern management of anemia in chronic kidney disease\nspectrum of anemia in non-dialysis-dependent chronic kidney disease\n retrospective study was conducted over seven years and it aimed to find out various causes of anemia among patients with chronic kidney disease (CKD).\nsafety and efficacy of ferumoxytol therapy in anemic chronic kidney disease patients.\noptions for the anemia of chronic kidney disease.\nnemia is a common complication of chronic kidney disease\nUrology and nephrology update: anemia of chronic kidney disease.\nAnemia is associated with chronic kidney disease (CKD) at all stages, and it is nearly universal among patients with stage 5 CKD\nnemia in Chronic Kidney Disease: \nnemia is a common complication in chronic kidney disease (CKD), and is associated with a reduced quality of life,\nAnemia and its predictors among adult non-dialysis chronic kidney disease patients in Southern Ethiopia: a cross-sectional study.\nAnemia is an adverse outcome and common complication in chronic kidney disease patient\nPrevalence of malnutrition and absolute and functional iron deficiency anemia in nondialysis-dependent chronic kidney disease and hemodialysis Algerian patients]\n chronic kidney disease, anemia and malnutrition coupled with inflammation as malnutrition-inflammation complex syndrom are common and considered as morbidity-mortality factors\nf Anemia in Chronic Kidney Disease: Beyond Erythropoietin\nnemia is a frequent comorbidity of chronic kidney disease (CKD) \n",
+        "qas": [
+          {
+            "question": "Is Iron deficiency anemia a common complication of chronic kidney disease?",
+            "id": "641365f6201352f04a00003a",
+            "answers": [
+              {
+                "text": "y",
+                "answer_start": 0
+              },
+              {
+                "text": "e",
+                "answer_start": 0
+              },
+              {
+                "text": "s",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Amiloride regulates IKs and APs with transmural differences and reduces arrhythmogenicity through the modulation of KCNQ1 splicing. We suggested that the modulation of KCNQ1 splicing may help prevent arrhythmia.\n",
+        "qas": [
+          {
+            "question": "Can modulation of KCNQ1 splicing prevent arrhythmias?",
+            "id": "6410ef9b201352f04a000031",
+            "answers": [
+              {
+                "text": "y",
+                "answer_start": 0
+              },
+              {
+                "text": "e",
+                "answer_start": 0
+              },
+              {
+                "text": "s",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Catamenial pneumothorax is one of the most frequent manifestation in terms of a thoracic endometriosis syndrome (TES).\nCatamenial Pneumothorax as the First Expression of Thoracic Endometriosis Syndrome and Pelvic Endometriosis.\nOBJECTIVE: The menstrual-related catamenial pneumothorax (CP) can be the first expression of thoracic endometriosis syndrome (TES), which is the presence of endometriotic lesions in the lungs and pleura, and pelvic endometriosis (PE).\nCatamenial pneumothorax: a rare manifestation of endometriosis.\nThoracic endometriosis is a rare extrapelvic location of endometriosis and the leading cause of catamenial pneumothorax. \nBACKGROUND: Catamenial pneumothorax (CP) is defined as a recurrent, spontaneous pneumothorax occurring within a day before or 72\u00a0h after the onset of menstruation. \nOBJECTIVES: Catamenial pneumothorax CP is a rare form of spontaneous pneumothorax in females forming part of thoracic endometriosis syndrome. \nOBJECTIVE: This review aimed to categorize thoracic endometriosis syndrome (TES) according to whether the presenting symptoms were catamenial and to evaluate whether such a categorization enables a better management strategy.\nThoracic endometriosis syndrome (TES) is a rare disorder characterized by the presence of ectopic endometrial tissue in the chest cavity. The typical clinical manifestation is a spontaneous pneumothorax, which usually presents with chest pain, dyspnea, and/or cough. \n",
+        "qas": [
+          {
+            "question": "What is Catamenial pneumothorax?",
+            "id": "63f57f7f33942b094c000006",
+            "answers": [
+              {
+                "text": "Catamenial pneumothorax is defined as a recurrent, spontaneous pneumothorax occurring within a day before or 72 h after the onset of menstruation. It is a manifestation of a thoracic endometriosis syndrome.",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "In contrast to the traditional mechanism of drug action that relies on the reversible, noncovalent interaction of a ligand with its biological target, a targeted covalent inhibitor (TCI) is designed such that the initial, reversible association is followed by the formation of a covalent bond between an electrophile on the ligand and a nucleophilic center in the protein. Although this approach offers a variety of potential benefits (high potency and extended duration of action), concerns over the possible toxicological consequences of prot\nHer particular hepatic metabolism further increased the drugs' concentration, favoring the haptenization of liver proteins, eventually leading to the development of an autoimmune hepatitis.\nDrug presentation via antigen-presenting cells to T cells can either involve the classical pathway of haptenization of endogenous proteins or be directly mediated via noncovalent binding to immune receptors (MHC molecules or T cell receptors), t\n",
+        "qas": [
+          {
+            "question": "Please summarize haptenization.",
+            "id": "64144419201352f04a000045",
+            "answers": [
+              {
+                "text": "Haptenization is the reaction of an antigenic compound (a hapten) with a carrier protein in order to stimulate an immune response.",
+                "answer_start": 0
+              },
+              {
+                "text": "Haptenization is a process by which a small molecule (hapten) is bound to a larger molecule (carrier) to form a hapten-carrier conjugate. This process is used to create vaccines and immunotherapies.",
+                "answer_start": 0
+              },
+              {
+                "text": "Haptenization is a process in which a small molecule, such as a drug or antigen, is chemically modified to become an immunogenic hapten. This process allows the hapten to bind to a larger carrier molecule, such as a protein, and be recognized by the immune system. Haptenization is used to create vaccines and other immunotherapies, as well as to study the immune system.",
+                "answer_start": 0
+              },
+              {
+                "text": "Haptenization involves the binding of a small molecule (hapten) to a larger carrier molecule, resulting in the formation of a new compound that can trigger an immune response. This process can lead to the production of antibodies that recognize the hapten and the carrier molecule, causing a hypersensitivity reaction upon re-exposure to the hapten",
+                "answer_start": 0
+              },
+              {
+                "text": "Haptenization is a process where small molecules, called haptens, bind covalently to larger carrier proteins, forming a new antigenic structure. This structure can then be recognized by the immune system, potentially leading to an immune response",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "The disease affects mainly female patients, who often deny the habit, and it usually presents with a bizarre pattern nonscarring patchy alopecia with short hair and a negative pull test. \n",
+        "qas": [
+          {
+            "question": "Is trichotillomania encountered with equali frequency in males and females?",
+            "id": "6414c124690f196b51000002",
+            "answers": [
+              {
+                "text": "n",
+                "answer_start": 0
+              },
+              {
+                "text": "o",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Eagle-Barrett Syndrome (EBS) is a rare congenital condition characterized by the triad of absent or defective abdominal wall muscles, urinary tract abnormalities, and bilateral cryptorchidism.\nBACKGROUND: Prune belly syndrome (PBS), also known as Eagle-Barrett syndrome (EGBRS), is a rare congenital disease characterized by deficiency or absence of abdominal wall muscles, urological abnormalities, and bilateral cryptorchidism.\nPrune Belly syndrome (PBS) or Eagle-Barrett syndrome is an anatomo-radiological syndrome consisting of a complex and rare malformation characterized by the following triad of symptoms: deficiency of the abdominal muscles, malformations of the urinary tract, and bilateral cryptorchidism.\nPrune belly syndrome (PBS), also known as Eagle-Barrett syndrome, is a rare congenital disorder characterized by absence or hypoplasia of the abdominal wall musculature, urinary tract anomalies, and cryptorchidism in males.\n",
+        "qas": [
+          {
+            "question": "What is the triad of the Eagle-Barrett Syndrome?",
+            "id": "64041701201352f04a000017",
+            "answers": [
+              {
+                "text": [
+                  "absent or defective abdominal wall muscles"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "urinary tract abnormalities"
+                ],
+                "answer_start": 0
+              },
+              {
+                "text": [
+                  "bilateral cryptorchidism"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Mantle cell lymphoma (MCL) is a relatively rare B-cell non-Hodgkin lymphoma, typically presenting with extensive lymphadenopathy,\nActivity has been demonstrated in many subtypes of B-cell lymphoma, including diffuse large cell lymphoma, follicular lymphoma (FL), mantle cell lymphoma (MCL), chronic lymphocytic leukemia (CLL), lymphocyte-predominant Hodgkin lymphoma, and Waldenstr\u00f6m macroglobulinemia (WM)\nMantle cell lymphoma (MCL) is a subtype of B-cell non-Hodgkin's lymphoma seen predominantly in males. \nMantle cell lymphoma is an aggressive, non-curable B-cell lymphoma, characterized by the translocation t(11;14)(q13;q32) involving CCND1 and a high number of additional genetic alterations.\nMantle cell lymphoma (MCL) is a B cell non-Hodgkin's lymphoma, characterized by a poor response to therapy and short survival.\nMantle cell lymphoma is a B cell lymphoproliferative disorder cytogenetically characterized by the t(11;14)(q13;q32) which at molecular level involves the Bcl-1/PRAD-1 gene.\nBACKGROUND: Mantle zone lymphoma (MZL) is a B-cell proliferation regarded as the follicular variant of intermediate lymphocytic lym\nBACKGROUND: Mantle cell lymphoma is a mature, virgin B-cell neoplasm characterized immunologically by a panB+, CD5+, CD23-, cyclin D1+ phenotype and g\nBACKGROUND: Mantle cell lymphoma is a mature, virgin B-cell neoplasm characterized immunologically by a panB+, CD5+, CD23-, cyclin D1+ phenotype and genetically by t(11;14)(q13;q32) with overexpression of the cyclin D1 (bcl-1) gene\nMantle cell lymphoma (MCL) is a unique subtype of B-cell non-Hodgkin lymphoma with a generally aggressive and heterogeneous clinical course. Chemokines are one of the complex components in the tumor microenvironment (TME), and they play a vital role in tumor progression and metastasis.\n",
+        "qas": [
+          {
+            "question": "What cells proliferate in Mantle Cell Lymphoma",
+            "id": "640c85e9201352f04a000026",
+            "answers": [
+              {
+                "text": [
+                  "B cells"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "We estimated reduced time and costs by online counseling with about 8% and 10-12%, respectively.\n",
+        "qas": [
+          {
+            "question": "What is the estimated cost reduction when using telegenetics?",
+            "id": "6415bb3c690f196b5100000e",
+            "answers": [
+              {
+                "text": [
+                  "10-12%"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "METHODS: In this phase 2, double-blind, placebo-controlled trial, we investigated the efficacy and safety of BI 1015550, an oral preferential inhibitor of the PDE4B subtype, in patients with idiopathic pulmonary fibrosis.\nPhase I studies of BI 1015550, a preferential phosphodiesterase 4B inhibitor, in healthy males and patients with idiopathic pulmonary fibrosis.\nIntroduction: BI 1015550 is a phosphodiesterase 4 (PDE4) inhibitor that has antifibrotic properties. \nBI 1015550 is a PDE4B Inhibitor and a Clinical Drug Candidate for the Oral Treatment of Idiopathic Pulmonary Fibrosis.\nBI 1015550 is a novel PDE4 inhibitor showing a preferential enzymatic inhibition of PDE4B.\nIn summary, the unique preferential inhibition of PDE4B by BI 1015550 and its anticipated improved tolerability in humans, plus its anti-inflammatory and antifibrotic potential, suggest BI 1015550 to be a promising oral clinical candidate for the treatment of IPF and other fibro-proliferative diseases.\n",
+        "qas": [
+          {
+            "question": "What is the target of BI 1015550?",
+            "id": "63f03ae6f36125a42600001d",
+            "answers": [
+              {
+                "text": [
+                  "phosphodiesterase 4B"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Both REMS and RMPs provide positive guidance for identification, monitoring, and minimization of risk to patient safety. Currently, neither agency provides specific guidance on how risk should be related to benefit either qualitatively or quantitatively.\nREMS requirements include medication guides, communication plans, elements to ensure safe use, implementation systems, and specified assessment intervals. RMP requirements are increased pharmacovigilance and risk minimization activities.\n",
+        "qas": [
+          {
+            "question": "Please summarize the difference between REMS and RMPs",
+            "id": "64089be7201352f04a000022",
+            "answers": [
+              {
+                "text": "REMS is the Food and Drug Administration's (FDA's) Risk Evaluation and Mitigation Strategies (REMS) and RMP is European Medicines Agency's (EMA's) Risk Management Plan (RMP) Both REMS and RMPs provide positive guidance for identification, monitoring, and minimization of risk to patient safety. RMP has requirements not included in REMS were specific adverse event reporting , prospective registry studies, prospective epidemiology studies, additional trial data (28%), and Summary of Product Characteristics contraindications .",
+                "answer_start": 0
+              },
+              {
+                "text": "REMS and RMPs are both risk management plans that are used to ensure the safe use of pharmaceuticals. REMS is a risk management plan developed by the Food and Drug Administration (FDA) in the United States, while RMP is a risk management plan developed by the European Medicines Agency (EMA) in Europe.\n\nREMS and RMPs are similar in objectives, with comparable toolkits. Both allow flexibility in product-specific actions, recognizing adverse effects of potential concern. REMS and RMPs are similar in objectives, with comparable toolkits. Both allow flexibility in product-specific actions, recognizing adverse effects of potential concern.\n\nREMS requirements not included in RMPs are patient medication guides (100% of the drugs), provider communication plans (38% of the drugs), and routine monitoring of REMS (66%). RMP requirements not included in REMS are specific adverse event reporting (45% of the drugs), prospective registry studies (34%), prospective epidemiology studies (24%), additional trial data (28%), and Summary of",
+                "answer_start": 0
+              },
+              {
+                "text": "Risk Evaluation and Mitigation Strategies (REMS) are FDA-mandated programs that require drug manufacturers to develop and implement plans to ensure that the benefits of a drug outweigh its risks. Risk Management Plans (RMPs) are similar to REMS, but are used in the European Union and are focused on the safety of the patient. RMPs are designed to identify, characterize, and prevent or minimize risks associated with a drug.",
+                "answer_start": 0
+              },
+              {
+                "text": "REMS (Risk Evaluation and Mitigation Strategies) and RMPs (Risk Management Plans) both aim to identify, monitor, and minimize risks to patient safety. REMS are required by the US FDA, while RMPs are mandated by the EMA in the European Union. Differences between them lie in their specific requirements and regional regulations",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Microexon alternative splicing of small GTPase regulators: Implication in central nervous system diseases.\nWe further discuss the emerging evidence for dysregulation of the Rho GTPase pathway in CNS diseases and the consequences contributed by the mis-splicing of microexons. \n",
+        "qas": [
+          {
+            "question": "Does microexon alternative splicing of small GTPase regulators have implication in central nervous system diseases?",
+            "id": "63f9cd2f33942b094c000011",
+            "answers": [
+              {
+                "text": "y",
+                "answer_start": 0
+              },
+              {
+                "text": "e",
+                "answer_start": 0
+              },
+              {
+                "text": "s",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Recessive dystrophic epidermolysis bullosa (RDEB) is a lifelong genodermatosis associated with blistering, wounding, and scarring caused by mutations in COL7A1, the gene encoding the anchoring fibril component, collagen VII (C7). Here, we evaluated beremagene geperpavec (B-VEC), an engineered, non-replicating COL7A1 containing herpes simplex virus type 1 (HSV-1) vector, to treat RDEB skin. \nThese studies show that B-VEC is an easily administered, safely tolerated, topical molecular corrective therapy promoting wound healing in patients with RDEB.\n",
+        "qas": [
+          {
+            "question": "Beremagene Geperpavec is tested for which disease?",
+            "id": "63eeeaaaf36125a426000004",
+            "answers": [
+              {
+                "text": [
+                  "recessive dystrophic epidermolysis bullosa"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "\"Hairpatches\" (Hpt) is a naturally occurring, autosomal semi-dominant mouse mutation. Hpt/Hpt homozygotes die in utero, while Hpt/+ heterozygotes exhibit progressive renal failure accompanied by patchy alopecia. \nHairpatches, a single gene mutation characterized by progressive renal disease and alopecia in the mouse. A potential model for a newly described heritable human disorder.\nRetrotransposon insertion in the T-cell acute lymphocytic leukemia 1 (Tal1) gene is associated with severe renal disease and patchy alopecia in Hairpatches (Hpt) mice.\nHairpatches, a single gene mutation characterized by progressive renal disease and alopecia in the mouse.\n",
+        "qas": [
+          {
+            "question": "Hairpatches is a single gene mutation associated with what disease?",
+            "id": "64138ce8201352f04a000042",
+            "answers": [
+              {
+                "text": [
+                  "alopecia and renal failure"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Alternative splicing of HSPA12A pre-RNA by SRSF11 contributes to metastasis potential of colorectal cancer.\nAlternative microexon splicing by RBFOX2 and PTBP1 is associated with metastasis in colorectal cancer.\nRNA interference-mediated knockdown experiments identified two splicing factors, RBFOX2 and PTBP1, as regulators of microexon splicing in CRC cells. RBFOX2 and PTBP1 were found to directly bind to microexon-containing pre-mRNAs and to control their splicing in such cells. Differential microexon splicing was shown to be due, at least in part, to altered expression of RBFOX2 and PTBP1 in CRC tissue compared to matched normal tissue. \nOur data thus suggest that altered expression of RBFOX2 and PTBP1 might influence CRC metastasis through the regulation of microexon splicing.\n",
+        "qas": [
+          {
+            "question": "What is the alternative microexon splicing by RBFOX2 and PTBP1 associated with?",
+            "id": "63f9cd0b33942b094c000010",
+            "answers": [
+              {
+                "text": [
+                  "colorectal cancer metastasis"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Cribriform Appearance of White Matter in Canavan Disease Associated with Novel Mutations of ASPA Gene.\nGenetic analysis revealed novel mutations in the aspartoacylase or ASPA gene that possibly accounts for the severe form of Canavan disease, which probably explains the imaging findings.\nCanavan disease (CD) is an inherited leukodystrophy resulting from mutations in the gene encoding aspartoacylase (ASPA). \nCanavan disease (CD) is a devastating neurological disease that lacks effective therapy. Because CD is caused by mutations of the aspartoacylase (ASPA) gene, we introduced the wild-type (WT) ASPA gene into patient iPSCs through lentiviral transduction or CRISPR/Cas9-mediated gene editing. \nThe compound heterozygous variants of the ASPA gene probably underlay the Canavan disease in this patient, and the result has enabled prenatal diagnosis for this family.\n",
+        "qas": [
+          {
+            "question": "Which gene is implicated in Canavan disease?",
+            "id": "63f56f7533942b094c000002",
+            "answers": [
+              {
+                "text": [
+                  "ASPA"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Prosopagnosia is a visual agnosia characterized by an inability to recognize previously known human faces and to learn new faces\nProsopagnosia is a type of visual agnosia with inability to identify faces, usually secondary to brain lesion in associative cortex areas, but there is also a congenital form known as developmental prosopagnosia.\nThese results indicate that, in some subjects with developmental prosopagnosia, the face recognition deficit is not an isolated impairment but is associated with deficits in other domains, such as auditory perception.\nProsopagnosia (PA) or face blindness is characterized by a deficiency in identifying familiar faces.\nThe apparent selectivity of agnosia for faces is termed prosopagnosia or face blindness.\nIn recent years, prosopagnosia is defined as the \"loss of ability to recognize the well-acquainted persons like the family members by their physiognomy.\"\nThe patient is unable to recognize faces or cars, consistent with his prosopagnosia and object agnosia, respectively.\nAnecdotally, it has been reported that individuals with acquired prosopagnosia compensate for their inability to recognize faces by using other person identity cues such as hair, gait or the voice.\nVisual object agnosia refers to the inability to recognize objects and prosopagnosia to the failure to recognize faces that are well familiar to the patient, when stimuli are visually perceived.\nSince face recognition is the most powerful source of information for identifying familiar people, patients showing a multimodal defect in people recognition have been sometimes considered as affected by \"prosopagnosia\"-namely, by a form of visual agnosia, specifically affecting face recognition.\nProsopagnosia is a selective visual agnosia characterized by the inability to recognize the identity of faces.\nProsopagnosia is a rare neurological sign, characterized by disturbance of recognition of faces.\nINTRODUCTION: The prosopagnosia has generally been defined as an incapacity to recognize familiar faces, or faces previously known, due to certain lesions to certain areas of the ce\nDevelopmental prosopagnosia (DP) is a condition characterised by lifelong face recognition difficulties.\nBACKGROUND: Developmental prosopagnosia is a disorder of face recognition that is believed to reflect impairments of visual mechanisms. However, voice recognition has rarely been evaluated in developmental pro\nProsopagnosia is a selective impairment of the visual learning and recognition of faces.\n This rarely studied form of prosopagnosia ensures that deficits are limited to face recognition.\nProsopagnosia is the inability to recognize someone by the face alone in the absence of sensory or intellectual impairment. In contrast to the acquire\n",
+        "qas": [
+          {
+            "question": "Is prosopagnosia also known as lack of auditory recognition?",
+            "id": "6411b4a8201352f04a000035",
+            "answers": [
+              {
+                "text": "n",
+                "answer_start": 0
+              },
+              {
+                "text": "o",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Telegenetics involves the use of technology (generally video conferencing) to remotely provide genetic services. A telegenetics platform is critical for those with limitations or vulnerabilities compromising their ability to attend clinic in-person, including individuals in rural areas.\n",
+        "qas": [
+          {
+            "question": "What is telegenetics?",
+            "id": "6415babe690f196b5100000d",
+            "answers": [
+              {
+                "text": "Telegenetics involves the use of technology (generally video conferencing) to remotely provide genetic services. A telegenetics platform is critical for those with limitations or vulnerabilities compromising their ability to attend clinic in-person, including individuals in rural areas",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "A phase 1 dose escalation study of the pyruvate kinase activator mitapivat (AG-348) in sickle cell disease.\nIn activating red blood cell pyruvate kinase and glycolysis, mitapivat (AG-348) increases adenosine triphosphate (ATP) levels and decreases the 2,3-diphosphoglycerate (2,3-DPG) concentration, an upstream precursor in glycolysis. \nSafety and efficacy of mitapivat, an oral pyruvate kinase activator, in adults with non-transfusion dependent \u03b1-thalassaemia or \u03b2-thalassaemia: an open-label, multicentre, phase 2 study.\nWe aimed to investigate the safety and efficacy of mitapivat (Agios Pharmaceuticals, Cambridge, MA, USA), a pyruvate kinase activator, in adults with non-transfusion-dependent (NTD) \u03b1-thalassaemia or NTD \u03b2-thalassaemia.\nBACKGROUND: Mitapivat, an oral activator of pyruvate kinase (PK) in red blood cells (RBCs), has shown significant improvements in haemoglobin and haemolysis among patients with pyruvate kinase deficiency who were not receiving regular transfusions. \n",
+        "qas": [
+          {
+            "question": "What is the mechanism of action of Mitapivat?",
+            "id": "63f04546f36125a426000024",
+            "answers": [
+              {
+                "text": "Mitapivat, an oral activator of pyruvate kinase in red blood cells, has shown significant improvements in haemoglobin and haemolysis among patients with pyruvate kinase deficiency who were not receiving regular transfusions.",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Necroptosis is a form of caspase-independent programmed cell death that arises from disruption of cell membranes by the mixed lineage kinase domain-like (MLKL) pseudokinase after its activation by the upstream kinases, receptor interacting protein kinase (RIPK)-1 and RIPK3, within a complex known as the necrosome\nThus, cells undergoing necroptosis need to overcome these independent suppressive mechanisms before plasma membrane disruption can occur.\nTaken together, these results confirm the active role of VLCFAs during necroptosis and point to multiple potential mechanisms of membrane disruption including direct permeabilization via bilayer disruption and permeabilization by targeting of proteins to cellular membranes by fatty acylation.\nNecroptosis is a form of caspase-independent programmed cell death that arises from disruption of cell membranes by the mixed lineage kinase domain-like (MLKL) pseudokinase after its activation by the upstream kinases, receptor interacting protein kinase (RIPK)-1 and RIPK3, within a complex known as the necrosome.\nNecroptosis is a form of regulated cell death which results in loss of plasma membrane integrity, release of intracellular contents, and an associated inflammatory response.\nHere, we show that, during necroptosis, MLKL-dependent calcium (Ca2+) influx and phosphatidylserine (PS) exposure on the outer leaflet of the plasma membrane preceded loss of PM integrity.\nMembrane Disruption by Very Long Chain Fatty Acids during Necroptosis.\nThe activation of mixed lineage kinase-like (MLKL) by receptor-interacting protein kinase-3 (RIPK3) results in plasma membrane (PM) disruption and a form of\u00a0regulated necrosis, called necroptosis.\nNecroptosis is a highly inflammatory form of programmed cell death that results from MLKL-mediated disruption of the cell membrane.\nNecroptosis, a form of programmed cell death, is characterized by the loss of membrane integrity and release of intracellular contents, the execution of which depends on the membrane-disrupting activity of the Mixed Lineage Kinase Domain-Like protein (MLKL) upon its phosphorylation.\nHere we report that, following sciatic nerve injury, MLKL, a pseudokinase known to rupture cell membranes during necroptotic cell death, is induced and targets the myelin sheath membrane of Schwann cells to promote myelin breakdown.\nUnder conditions of necroptotic cell death, ESCRT-III controls the duration of plasma membrane integrity.\nNecroptosis induction leads to cell membrane disruption, inflammation and vascularization.\n Both necrosis and necroptosis show similar morphological features and are characterized by an increase in cell volume, cell membrane permeabilization, and rupture that lead to cellular demise.\n Thus, cells undergoing necroptosis need to overcome these independent suppressive mechanisms before plasma membrane disruption can occur.\nchanisms by which the essential, and possibly terminal, necroptotic effector, MLKL, triggers the disruption of cellular membranes to cause cell lysis.\nuring necroptosis. We show that MLKL and phosphoMLKL, key for membrane permeabilization, are exclusively acylated during necroptosis. Reducing the lev\nanslocates to and disrupts the plasma membrane, thereby causing necroptotic cell lysis. Herein, we show that activation of necroptosis in mouse dermal\nNecroptosis is a programmed cell death pathway triggered by activation of receptor interacting protein kinase 3 (RIPK3), which phosphorylates and activates the mixed lineage kinase-like domain pseudokinase, MLKL, to rupture or permeabilize the plasma membrane.\n non-inflammatory process while necrosis triggers inflammation. Recent studies on necroptosis and pyroptosis, two types of programmed necrosis, revealed that plasma membrane rupture is mediated by MLKL channels during necroptosis but depen\n",
+        "qas": [
+          {
+            "question": "Do cells undergoing necroptosis show disruption of their cell membranes?",
+            "id": "641357bc201352f04a000039",
+            "answers": [
+              {
+                "text": "y",
+                "answer_start": 0
+              },
+              {
+                "text": "e",
+                "answer_start": 0
+              },
+              {
+                "text": "s",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Dermatillomania or skin picking disorder (SPD) is a chronic, recurrent, and treatment resistant neuropsychiatric disorder with an underestimated prevalence that has a concerning negative impact on an individual's health and quality of life. \nDermatillomania is a pathologic grooming disorder characterized by repetitive, ritualistic, impulsive skin picking without an underlying dermatologic condition.\n",
+        "qas": [
+          {
+            "question": "What is the definition of dermatillomania?",
+            "id": "6414c3f3690f196b51000005",
+            "answers": [
+              {
+                "text": "Dermatillomania is a condition that leads to repetitive picking of their skin ending up in skin and soft tissue damage. It is a chronic, recurrent, and treatment resistant neuropsychiatric disorder with an underestimated prevalence that has a concerning negative impact on an individual's health and quality of life.",
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      {
+        "context": "Glofitamab Treatment in Relapsed or Refractory DLBCL after CAR T-Cell Therapy.\nIn this study, we evaluated the safety and efficacy of a monotherapy with the bispecific CD20xCD3 antibody glofitamab in patients who progressed after CAR T treatment. We report nine consecutive patients with progressive DLBCL after preceding CAR T-cell therapy. \nOur data suggest that glofitamab treatment is well tolerated and effective in patients with DLBCL relapsing after CAR T-cell therapy and can enhance residual CAR T-cell activity.\nBispecific antibodies such as epcoritamab, mosunetuzumab, and glofitamab, anti-CD19 antibody drug tafasitamab combined with lenalidomide, CD19 antibody drug conjugate loncastuximab tesirine, oral selective inhibitor of nuclear export selinexor, and several new agents have been investigated for DLBCL. \nGlofitamab, a novel CD20xCD3, T-cell-engaging bispecific antibody, exhibited single-agent activity in Study NP30179, a first-in-human, phase 1 trial in relapsed/refractory B-cell non-Hodgkin lymphoma.\n",
+        "qas": [
+          {
+            "question": "What disease can be treated with Glofitamab?",
+            "id": "63eeeb70f36125a426000005",
+            "answers": [
+              {
+                "text": [
+                  "DLBCL"
+                ],
+                "answer_start": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
